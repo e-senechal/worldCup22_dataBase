@@ -1,0 +1,414 @@
+[{
+ "Player": [
+  {
+   "Name": "Alisson",
+   "SoT_Against": "7",
+   "Saves": "5",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Lawrence Ati-Zigi",
+   "SoT_Against": "17",
+   "Saves": "10",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Meshaal Barsham",
+   "SoT_Against": "9",
+   "Saves": "4",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Alireza Beiranvand",
+   "SoT_Against": "5",
+   "Saves": "4",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Milan Borjan",
+   "SoT_Against": "15",
+   "Saves": "8",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Yassine Bounou",
+   "SoT_Against": "11",
+   "Saves": "7",
+   "Clean_Sheets": "3",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Diogo Costa",
+   "SoT_Against": "17",
+   "Saves": "11",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Thibaut Courtois",
+   "SoT_Against": "11",
+   "Saves": "8",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "1",
+   "PK_Allowed": "0",
+   "PK_Saved": "1",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Aymen Dahmen",
+   "SoT_Against": "10",
+   "Saves": "9",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Ederson",
+   "SoT_Against": "3",
+   "Saves": "2",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Devis Epassy",
+   "SoT_Against": "12",
+   "Saves": "9",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Hernán Galíndez",
+   "SoT_Against": "4",
+   "Saves": "1",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Shūichi Gonda",
+   "SoT_Against": "19",
+   "Saves": "15",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Wayne Hennessey",
+   "SoT_Against": "5",
+   "Saves": "4",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Hossein Hosseini",
+   "SoT_Against": "10",
+   "Saves": "4",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Gregor Kobel",
+   "SoT_Against": "4",
+   "Saves": "2",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Dominik Livaković",
+   "SoT_Against": "31",
+   "Saves": "24",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Hugo Lloris",
+   "SoT_Against": "24",
+   "Saves": "17",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "4",
+   "PK_Allowed": "3",
+   "PK_Saved": "0",
+   "PK_Off_Target": "1"
+  },
+  {
+   "Name": "Steve Mandanda",
+   "SoT_Against": "3",
+   "Saves": "2",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Emiliano Martínez",
+   "SoT_Against": "13",
+   "Saves": "6",
+   "Clean_Sheets": "3",
+   "PK_Attemp": "2",
+   "PK_Allowed": "2",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Edouard Mendy",
+   "SoT_Against": "14",
+   "Saves": "7",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Vanja Milinković-Savić",
+   "SoT_Against": "24",
+   "Saves": "16",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Munir",
+   "SoT_Against": "3",
+   "Saves": "3",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Keylor Navas",
+   "SoT_Against": "22",
+   "Saves": "11",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Manuel Neuer",
+   "SoT_Against": "13",
+   "Saves": "8",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Andries Noppert",
+   "SoT_Against": "22",
+   "Saves": "18",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Guillermo Ochoa",
+   "SoT_Against": "6",
+   "Saves": "2",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "1",
+   "PK_Allowed": "0",
+   "PK_Saved": "1",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "André Onana",
+   "SoT_Against": "3",
+   "Saves": "2",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Mohammed Al-Owais",
+   "SoT_Against": "19",
+   "Saves": "14",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Jordan Pickford",
+   "SoT_Against": "11",
+   "Saves": "7",
+   "Clean_Sheets": "3",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Sergio Rochet",
+   "SoT_Against": "7",
+   "Saves": "4",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "2",
+   "PK_Allowed": "1",
+   "PK_Saved": "1",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Mathew Ryan",
+   "SoT_Against": "18",
+   "Saves": "12",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Kasper Schmeichel",
+   "SoT_Against": "11",
+   "Saves": "8",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Kim Seung-gyu",
+   "SoT_Against": "19",
+   "Saves": "11",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Saad Al Sheeb",
+   "SoT_Against": "3",
+   "Saves": "1",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Unai Simón",
+   "SoT_Against": "9",
+   "Saves": "6",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Yann Sommer",
+   "SoT_Against": "19",
+   "Saves": "12",
+   "Clean_Sheets": "1",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Wojciech Szczęsny",
+   "SoT_Against": "28",
+   "Saves": "21",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "2",
+   "PK_Allowed": "0",
+   "PK_Saved": "2",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Matt Turner",
+   "SoT_Against": "12",
+   "Saves": "8",
+   "Clean_Sheets": "2",
+   "PK_Attemp": "1",
+   "PK_Allowed": "1",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Danny Ward",
+   "SoT_Against": "9",
+   "Saves": "4",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  },
+  {
+   "Name": "Wéverton",
+   "SoT_Against": "0",
+   "Saves": "0",
+   "Clean_Sheets": "0",
+   "PK_Attemp": "0",
+   "PK_Allowed": "0",
+   "PK_Saved": "0",
+   "PK_Off_Target": "0"
+  }
+ ]
+}]

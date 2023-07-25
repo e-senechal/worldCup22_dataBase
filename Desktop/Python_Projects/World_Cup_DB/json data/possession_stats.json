@@ -1,0 +1,2719 @@
+[{
+ "Player": [
+  {
+   "Name": "Brenden Aaronson",
+   "Touches": "80"
+  },
+  {
+   "Name": "Ali Abdi",
+   "Touches": "154"
+  },
+  {
+   "Name": "Salis Abdul Samed",
+   "Touches": "170"
+  },
+  {
+   "Name": "Saud Abdulhamid",
+   "Touches": "154"
+  },
+  {
+   "Name": "Nawaf Al Abed",
+   "Touches": "51"
+  },
+  {
+   "Name": "Pape Abou Cissé",
+   "Touches": "49"
+  },
+  {
+   "Name": "Vincent Aboubakar",
+   "Touches": "48"
+  },
+  {
+   "Name": "Abdulrahman Al-Aboud",
+   "Touches": "23"
+  },
+  {
+   "Name": "Zakaria Aboukhlal",
+   "Touches": "26"
+  },
+  {
+   "Name": "Kellyn Acosta",
+   "Touches": "16"
+  },
+  {
+   "Name": "Marcos Acuña",
+   "Touches": "271"
+  },
+  {
+   "Name": "Tyler Adams",
+   "Touches": "308"
+  },
+  {
+   "Name": "Sam Adekugbe",
+   "Touches": "77"
+  },
+  {
+   "Name": "Michel Aebischer",
+   "Touches": "4"
+  },
+  {
+   "Name": "Akram Afif",
+   "Touches": "182"
+  },
+  {
+   "Name": "Nayef Aguerd",
+   "Touches": "184"
+  },
+  {
+   "Name": "Brandon Aguilera",
+   "Touches": "44"
+  },
+  {
+   "Name": "Homam Ahmed",
+   "Touches": "118"
+  },
+  {
+   "Name": "Manuel Akanji",
+   "Touches": "290"
+  },
+  {
+   "Name": "Nathan Aké",
+   "Touches": "393"
+  },
+  {
+   "Name": "Ahmed Alaaeldin",
+   "Touches": "2"
+  },
+  {
+   "Name": "Jordi Alba",
+   "Touches": "395"
+  },
+  {
+   "Name": "Toby Alderweireld",
+   "Touches": "302"
+  },
+  {
+   "Name": "Trent Alexander-Arnold",
+   "Touches": "24"
+  },
+  {
+   "Name": "Almoez Ali",
+   "Touches": "66"
+  },
+  {
+   "Name": "Alisson",
+   "Touches": "100"
+  },
+  {
+   "Name": "Joe Allen",
+   "Touches": "53"
+  },
+  {
+   "Name": "Thiago Almada",
+   "Touches": "15"
+  },
+  {
+   "Name": "Roberto Alvarado",
+   "Touches": "12"
+  },
+  {
+   "Name": "Edson Álvarez",
+   "Touches": "131"
+  },
+  {
+   "Name": "Julián Álvarez",
+   "Touches": "176"
+  },
+  {
+   "Name": "Kevin Álvarez",
+   "Touches": "38"
+  },
+  {
+   "Name": "Dani Alves",
+   "Touches": "113"
+  },
+  {
+   "Name": "Selim Amallah",
+   "Touches": "147"
+  },
+  {
+   "Name": "Daniel Amartey",
+   "Touches": "172"
+  },
+  {
+   "Name": "Ethan Ampadu",
+   "Touches": "178"
+  },
+  {
+   "Name": "Sofyan Amrabat",
+   "Touches": "382"
+  },
+  {
+   "Name": "Abdulelah Al-Amri",
+   "Touches": "130"
+  },
+  {
+   "Name": "Joachim Andersen",
+   "Touches": "279"
+  },
+  {
+   "Name": "Karim Ansarifard",
+   "Touches": "11"
+  },
+  {
+   "Name": "Antony"
+  },
+  {
+   "Name": "Uriel Antuna",
+   "Touches": "33"
+  },
+  {
+   "Name": "Néstor Araujo",
+   "Touches": "60"
+  },
+  {
+   "Name": "Takuma Asano",
+   "Touches": "49"
+  },
+  {
+   "Name": "Marco Asensio",
+   "Touches": "148"
+  },
+  {
+   "Name": "Ali Assadalla",
+   "Touches": "24"
+  },
+  {
+   "Name": "Lawrence Ati-Zigi",
+   "Touches": "87"
+  },
+  {
+   "Name": "Nathaniel Atkinson",
+   "Touches": "44"
+  },
+  {
+   "Name": "Yahya Attiat Allah",
+   "Touches": "169"
+  },
+  {
+   "Name": "André Ayew",
+   "Touches": "61"
+  },
+  {
+   "Name": "Jordan Ayew",
+   "Touches": "67"
+  },
+  {
+   "Name": "Sardar Azmoun",
+   "Touches": "40"
+  },
+  {
+   "Name": "César Azpilicueta",
+   "Touches": "186"
+  },
+  {
+   "Name": "Srđan Babić",
+   "Touches": "18"
+  },
+  {
+   "Name": "Keanu Baccus",
+   "Touches": "57"
+  },
+  {
+   "Name": "Alexander Bah",
+   "Touches": "65"
+  },
+  {
+   "Name": "Hattan Bahebri",
+   "Touches": "7"
+  },
+  {
+   "Name": "Alejandro Balde",
+   "Touches": "135"
+  },
+  {
+   "Name": "Gareth Bale",
+   "Touches": "68"
+  },
+  {
+   "Name": "Fodé Ballo-Touré",
+   "Touches": "10"
+  },
+  {
+   "Name": "Badr Banoun",
+   "Touches": "28"
+  },
+  {
+   "Name": "Borna Barišić",
+   "Touches": "82"
+  },
+  {
+   "Name": "Meshaal Barsham",
+   "Touches": "69"
+  },
+  {
+   "Name": "Christian Bassogog",
+   "Touches": "14"
+  },
+  {
+   "Name": "Michy Batshuayi",
+   "Touches": "42"
+  },
+  {
+   "Name": "Jan Bednarek",
+   "Touches": "6"
+  },
+  {
+   "Name": "Aziz Behich",
+   "Touches": "251"
+  },
+  {
+   "Name": "Alireza Beiranvand",
+   "Touches": "33"
+  },
+  {
+   "Name": "Jude Bellingham",
+   "Touches": "324"
+  },
+  {
+   "Name": "Anis Ben Slimane",
+   "Touches": "72"
+  },
+  {
+   "Name": "Jewison Bennette",
+   "Touches": "30"
+  },
+  {
+   "Name": "Rodrigo Bentancur",
+   "Touches": "195"
+  },
+  {
+   "Name": "Bartosz Bereszyński",
+   "Touches": "200"
+  },
+  {
+   "Name": "Steven Berghuis",
+   "Touches": "145"
+  },
+  {
+   "Name": "Steven Bergwijn",
+   "Touches": "86"
+  },
+  {
+   "Name": "Krystian Bielik",
+   "Touches": "130"
+  },
+  {
+   "Name": "Daley Blind",
+   "Touches": "341"
+  },
+  {
+   "Name": "Celso Borges",
+   "Touches": "144"
+  },
+  {
+   "Name": "Milan Borjan",
+   "Touches": "105"
+  },
+  {
+   "Name": "Karim Boudiaf",
+   "Touches": "121"
+  },
+  {
+   "Name": "Sofiane Boufal",
+   "Touches": "200"
+  },
+  {
+   "Name": "Yassine Bounou",
+   "Touches": "218"
+  },
+  {
+   "Name": "Martin Braithwaite",
+   "Touches": "24"
+  },
+  {
+   "Name": "Mohammed Al-Breik",
+   "Touches": "56"
+  },
+  {
+   "Name": "Gleison Bremer",
+   "Touches": "95"
+  },
+  {
+   "Name": "Dylan Bronn",
+   "Touches": "106"
+  },
+  {
+   "Name": "Marcelo Brozović",
+   "Touches": "594"
+  },
+  {
+   "Name": "Tajon Buchanan",
+   "Touches": "130"
+  },
+  {
+   "Name": "Ante Budimir",
+   "Touches": "12"
+  },
+  {
+   "Name": "Osman Bukari",
+   "Touches": "30"
+  },
+  {
+   "Name": "Ali Al-Bulaihi",
+   "Touches": "110"
+  },
+  {
+   "Name": "Firas Al-Buraikan",
+   "Touches": "93"
+  },
+  {
+   "Name": "Sergio Busquets",
+   "Touches": "310"
+  },
+  {
+   "Name": "Martín Cáceres",
+   "Touches": "83"
+  },
+  {
+   "Name": "Moisés Caicedo",
+   "Touches": "174"
+  },
+  {
+   "Name": "Francisco Calvo",
+   "Touches": "122"
+  },
+  {
+   "Name": "Eduardo Camavinga",
+   "Touches": "141"
+  },
+  {
+   "Name": "Joel Campbell",
+   "Touches": "176"
+  },
+  {
+   "Name": "João Cancelo",
+   "Touches": "315"
+  },
+  {
+   "Name": "Agustín Canobbio",
+   "Touches": "11"
+  },
+  {
+   "Name": "Yannick Carrasco",
+   "Touches": "67"
+  },
+  {
+   "Name": "Cameron Carter-Vickers",
+   "Touches": "64"
+  },
+  {
+   "Name": "Dani Carvajal",
+   "Touches": "139"
+  },
+  {
+   "Name": "William Carvalho",
+   "Touches": "183"
+  },
+  {
+   "Name": "Casemiro",
+   "Touches": "303"
+  },
+  {
+   "Name": "Matty Cash",
+   "Touches": "199"
+  },
+  {
+   "Name": "Timothy Castagne",
+   "Touches": "231"
+  },
+  {
+   "Name": "Jean-Charles Castelletto",
+   "Touches": "109"
+  },
+  {
+   "Name": "Lucas Cavallini",
+   "Touches": "3"
+  },
+  {
+   "Name": "Edinson Cavani",
+   "Touches": "45"
+  },
+  {
+   "Name": "Ghaylène Chaalali",
+   "Touches": "12"
+  },
+  {
+   "Name": "Daniel Chacón",
+   "Touches": "2"
+  },
+  {
+   "Name": "Ilias Chair",
+   "Touches": "18"
+  },
+  {
+   "Name": "Kwon Chang-hoon",
+   "Touches": "28"
+  },
+  {
+   "Name": "Luis Chávez",
+   "Touches": "171"
+  },
+  {
+   "Name": "Walid Cheddira",
+   "Touches": "19"
+  },
+  {
+   "Name": "Roozbeh Cheshmi",
+   "Touches": "19"
+  },
+  {
+   "Name": "Andreas Christensen",
+   "Touches": "280"
+  },
+  {
+   "Name": "Hong Chul",
+   "Touches": "25"
+  },
+  {
+   "Name": "José Cifuentes",
+   "Touches": "53"
+  },
+  {
+   "Name": "Pathé Ciss",
+   "Touches": "77"
+  },
+  {
+   "Name": "Sebastián Coates",
+   "Touches": "107"
+  },
+  {
+   "Name": "Rubin Colwill",
+   "Touches": "6"
+  },
+  {
+   "Name": "Kingsley Coman",
+   "Touches": "102"
+  },
+  {
+   "Name": "Eray Cömert",
+   "Touches": "50"
+  },
+  {
+   "Name": "Anthony Contreras",
+   "Touches": "39"
+  },
+  {
+   "Name": "Andreas Cornelius",
+   "Touches": "48"
+  },
+  {
+   "Name": "Ángel Correa",
+   "Touches": "6"
+  },
+  {
+   "Name": "Diogo Costa",
+   "Touches": "170"
+  },
+  {
+   "Name": "Thibaut Courtois",
+   "Touches": "130"
+  },
+  {
+   "Name": "Jason Cummings",
+   "Touches": "8"
+  },
+  {
+   "Name": "Aymen Dahmen",
+   "Touches": "82"
+  },
+  {
+   "Name": "Diogo Dalot",
+   "Touches": "174"
+  },
+  {
+   "Name": "Mikkel Damsgaard",
+   "Touches": "90"
+  },
+  {
+   "Name": "Danilo",
+   "Touches": "291"
+  },
+  {
+   "Name": "Achraf Dari",
+   "Touches": "139"
+  },
+  {
+   "Name": "Jonathan David",
+   "Touches": "85"
+  },
+  {
+   "Name": "Alphonso Davies",
+   "Touches": "158"
+  },
+  {
+   "Name": "Ben Davies",
+   "Touches": "186"
+  },
+  {
+   "Name": "Nasser Al-Dawsari",
+   "Touches": "13"
+  },
+  {
+   "Name": "Salem Al-Dawsari",
+   "Touches": "151"
+  },
+  {
+   "Name": "Giorgian De Arrascaeta",
+   "Touches": "70"
+  },
+  {
+   "Name": "Kevin De Bruyne",
+   "Touches": "167"
+  },
+  {
+   "Name": "Charles De Ketelaere",
+   "Touches": "6"
+  },
+  {
+   "Name": "Nicolás De La Cruz",
+   "Touches": "29"
+  },
+  {
+   "Name": "Rodrigo De Paul",
+   "Touches": "626"
+  },
+  {
+   "Name": "Miloš Degenek",
+   "Touches": "127"
+  },
+  {
+   "Name": "Thomas Delaney",
+   "Touches": "31"
+  },
+  {
+   "Name": "Ousmane Dembélé",
+   "Touches": "244"
+  },
+  {
+   "Name": "Leander Dendoncker",
+   "Touches": "144"
+  },
+  {
+   "Name": "Sergiño Dest",
+   "Touches": "253"
+  },
+  {
+   "Name": "Ángel Di María",
+   "Touches": "203"
+  },
+  {
+   "Name": "Boulaye Dia",
+   "Touches": "83"
+  },
+  {
+   "Name": "Abdou Diallo",
+   "Touches": "210"
+  },
+  {
+   "Name": "Rúben Dias",
+   "Touches": "293"
+  },
+  {
+   "Name": "Krépin Diatta",
+   "Touches": "90"
+  },
+  {
+   "Name": "Famara Diedhiou",
+   "Touches": "25"
+  },
+  {
+   "Name": "Bamba Dieng",
+   "Touches": "33"
+  },
+  {
+   "Name": "Eric Dier",
+   "Touches": "44"
+  },
+  {
+   "Name": "Axel Disasi",
+   "Touches": "91"
+  },
+  {
+   "Name": "Alexander Djiku",
+   "Touches": "43"
+  },
+  {
+   "Name": "Ritsu Doan",
+   "Touches": "94"
+  },
+  {
+   "Name": "Jeremy Doku",
+   "Touches": "17"
+  },
+  {
+   "Name": "Kasper Dolberg",
+   "Touches": "35"
+  },
+  {
+   "Name": "Mohamed Dräger",
+   "Touches": "74"
+  },
+  {
+   "Name": "Óscar Duarte",
+   "Touches": "132"
+  },
+  {
+   "Name": "Mitchell Duke",
+   "Touches": "97"
+  },
+  {
+   "Name": "Denzel Dumfries",
+   "Touches": "281"
+  },
+  {
+   "Name": "Paulo Dybala",
+   "Touches": "20"
+  },
+  {
+   "Name": "Enzo Ebosse",
+   "Touches": "49"
+  },
+  {
+   "Name": "Ederson",
+   "Touches": "32"
+  },
+  {
+   "Name": "Jorge Eduardo Sánchez",
+   "Touches": "115"
+  },
+  {
+   "Name": "Nico Elvedi",
+   "Touches": "165"
+  },
+  {
+   "Name": "Breel Embolo",
+   "Touches": "91"
+  },
+  {
+   "Name": "Youssef En-Nesyri",
+   "Touches": "129"
+  },
+  {
+   "Name": "Wataru Endo",
+   "Touches": "241"
+  },
+  {
+   "Name": "Devis Epassy",
+   "Touches": "92"
+  },
+  {
+   "Name": "Christian Eriksen",
+   "Touches": "254"
+  },
+  {
+   "Name": "Michael Estrada",
+   "Touches": "71"
+  },
+  {
+   "Name": "Pervis Estupiñán",
+   "Touches": "222"
+  },
+  {
+   "Name": "Stephen Eustáquio",
+   "Touches": "110"
+  },
+  {
+   "Name": "Saeid Ezatolahi",
+   "Touches": "116"
+  },
+  {
+   "Name": "Abdessamad Ezzalzouli",
+   "Touches": "40"
+  },
+  {
+   "Name": "Fabinho",
+   "Touches": "64"
+  },
+  {
+   "Name": "Collins Fai",
+   "Touches": "169"
+  },
+  {
+   "Name": "Salman Al-Faraj",
+   "Touches": "20"
+  },
+  {
+   "Name": "Christian Fassnacht",
+   "Touches": "12"
+  },
+  {
+   "Name": "Abdul Fatawu Issahaku",
+   "Touches": "2"
+  },
+  {
+   "Name": "Ansu Fati",
+   "Touches": "34"
+  },
+  {
+   "Name": "João Félix",
+   "Touches": "156"
+  },
+  {
+   "Name": "Bruno Fernandes",
+   "Touches": "272"
+  },
+  {
+   "Name": "Edimilson Fernandes",
+   "Touches": "96"
+  },
+  {
+   "Name": "Enzo Fernández",
+   "Touches": "535"
+  },
+  {
+   "Name": "Jesús Ferreira",
+   "Touches": "24"
+  },
+  {
+   "Name": "Phil Foden",
+   "Touches": "144"
+  },
+  {
+   "Name": "Youssouf Fofana",
+   "Touches": "138"
+  },
+  {
+   "Name": "Juan Foyth",
+   "Touches": "5"
+  },
+  {
+   "Name": "Alan Franco",
+   "Touches": "16"
+  },
+  {
+   "Name": "Przemysław Frankowski",
+   "Touches": "99"
+  },
+  {
+   "Name": "Fred",
+   "Touches": "98"
+  },
+  {
+   "Name": "Fabian Frei",
+   "Touches": "16"
+  },
+  {
+   "Name": "Remo Freuler",
+   "Touches": "197"
+  },
+  {
+   "Name": "Keysher Fuller",
+   "Touches": "93"
+  },
+  {
+   "Name": "Niclas Füllkrug",
+   "Touches": "38"
+  },
+  {
+   "Name": "Rogelio Funes Mori",
+   "Touches": "2"
+  },
+  {
+   "Name": "Cody Gakpo",
+   "Touches": "212"
+  },
+  {
+   "Name": "Hernán Galíndez",
+   "Touches": "76"
+  },
+  {
+   "Name": "Jesús Gallardo",
+   "Touches": "170"
+  },
+  {
+   "Name": "Idrissa Gana Gueye",
+   "Touches": "158"
+  },
+  {
+   "Name": "Gavi",
+   "Touches": "185"
+  },
+  {
+   "Name": "Sultan Al-Ghanam",
+   "Touches": "71"
+  },
+  {
+   "Name": "Nader Ghandri",
+   "Touches": "44"
+  },
+  {
+   "Name": "Saman Ghoddos",
+   "Touches": "24"
+  },
+  {
+   "Name": "Ali Gholizadeh",
+   "Touches": "88"
+  },
+  {
+   "Name": "Matthias Ginter",
+   "Touches": "3"
+  },
+  {
+   "Name": "Olivier Giroud",
+   "Touches": "111"
+  },
+  {
+   "Name": "Kamil Glik",
+   "Touches": "168"
+  },
+  {
+   "Name": "Serge Gnabry",
+   "Touches": "151"
+  },
+  {
+   "Name": "Diego Godín",
+   "Touches": "116"
+  },
+  {
+   "Name": "Maxi Gómez",
+   "Touches": "9"
+  },
+  {
+   "Name": "Papu Gómez",
+   "Touches": "69"
+  },
+  {
+   "Name": "Shūichi Gonda",
+   "Touches": "124"
+  },
+  {
+   "Name": "Craig Goodwin",
+   "Touches": "117"
+  },
+  {
+   "Name": "Leon Goretzka",
+   "Touches": "72"
+  },
+  {
+   "Name": "Mario Götze",
+   "Touches": "30"
+  },
+  {
+   "Name": "Jack Grealish",
+   "Touches": "72"
+  },
+  {
+   "Name": "Antoine Griezmann",
+   "Touches": "384"
+  },
+  {
+   "Name": "Kamil Grosicki",
+   "Touches": "6"
+  },
+  {
+   "Name": "Carlos Gruezo",
+   "Touches": "19"
+  },
+  {
+   "Name": "Marko Grujić",
+   "Touches": "21"
+  },
+  {
+   "Name": "Andrés Guardado",
+   "Touches": "23"
+  },
+  {
+   "Name": "Nemanja Gudelj",
+   "Touches": "61"
+  },
+  {
+   "Name": "Mattéo Guendouzi",
+   "Touches": "37"
+  },
+  {
+   "Name": "Raphaël Guerreiro",
+   "Touches": "208"
+  },
+  {
+   "Name": "Cho Guesung",
+   "Touches": "90"
+  },
+  {
+   "Name": "Pape Gueye",
+   "Touches": "81"
+  },
+  {
+   "Name": "Bruno Guimarães",
+   "Touches": "67"
+  },
+  {
+   "Name": "İlkay Gündoğan",
+   "Touches": "188"
+  },
+  {
+   "Name": "Erick Gutiérrez",
+   "Touches": "35"
+  },
+  {
+   "Name": "Joško Gvardiol",
+   "Touches": "602"
+  },
+  {
+   "Name": "Asiri Haitham",
+   "Touches": "5"
+  },
+  {
+   "Name": "Ehsan Hajsafi",
+   "Touches": "121"
+  },
+  {
+   "Name": "Achraf Hakimi",
+   "Touches": "482"
+  },
+  {
+   "Name": "Abderrazak Hamdallah",
+   "Touches": "27"
+  },
+  {
+   "Name": "Abdelkarim Hassan",
+   "Touches": "195"
+  },
+  {
+   "Name": "Ali Al Hassan",
+   "Touches": "15"
+  },
+  {
+   "Name": "Abdulaziz Hatem",
+   "Touches": "98"
+  },
+  {
+   "Name": "Kai Havertz",
+   "Touches": "45"
+  },
+  {
+   "Name": "Hassan Al-Haydos",
+   "Touches": "102"
+  },
+  {
+   "Name": "Eden Hazard",
+   "Touches": "70"
+  },
+  {
+   "Name": "Thorgan Hazard",
+   "Touches": "70"
+  },
+  {
+   "Name": "Hwang Hee-chan",
+   "Touches": "83"
+  },
+  {
+   "Name": "Jordan Henderson",
+   "Touches": "178"
+  },
+  {
+   "Name": "Wayne Hennessey",
+   "Touches": "68"
+  },
+  {
+   "Name": "Lucas Hernández",
+   "Touches": "10"
+  },
+  {
+   "Name": "Theo Hernández",
+   "Touches": "386"
+  },
+  {
+   "Name": "Héctor Herrera",
+   "Touches": "92"
+  },
+  {
+   "Name": "Son Heung-min",
+   "Touches": "165"
+  },
+  {
+   "Name": "Piero Hincapié",
+   "Touches": "227"
+  },
+  {
+   "Name": "Jonas Hofmann",
+   "Touches": "26"
+  },
+  {
+   "Name": "Junior Hoilett",
+   "Touches": "81"
+  },
+  {
+   "Name": "Martin Hongla",
+   "Touches": "73"
+  },
+  {
+   "Name": "Ricardo Horta",
+   "Touches": "55"
+  },
+  {
+   "Name": "Hossein Hosseini",
+   "Touches": "49"
+  },
+  {
+   "Name": "Majid Hosseini",
+   "Touches": "137"
+  },
+  {
+   "Name": "Ajdin Hrustic",
+   "Touches": "32"
+  },
+  {
+   "Name": "Atiba Hutchinson",
+   "Touches": "130"
+  },
+  {
+   "Name": "Pierre Højbjerg",
+   "Touches": "250"
+  },
+  {
+   "Name": "Romario Ibarra",
+   "Touches": "23"
+  },
+  {
+   "Name": "Ivan Ilić",
+   "Touches": "23"
+  },
+  {
+   "Name": "Hwang In-beom",
+   "Touches": "275"
+  },
+  {
+   "Name": "Jackson Irvine",
+   "Touches": "171"
+  },
+  {
+   "Name": "Ko Itakura",
+   "Touches": "152"
+  },
+  {
+   "Name": "Hiroki Ito",
+   "Touches": "64"
+  },
+  {
+   "Name": "Junya Ito",
+   "Touches": "135"
+  },
+  {
+   "Name": "Yahya Jabrane"
+  },
+  {
+   "Name": "Nicolas Jackson",
+   "Touches": "11"
+  },
+  {
+   "Name": "Lee Jae-sung",
+   "Touches": "115"
+  },
+  {
+   "Name": "Alireza Jahanbakhsh",
+   "Touches": "27"
+  },
+  {
+   "Name": "Kristijan Jakić",
+   "Touches": "0"
+  },
+  {
+   "Name": "Ismail Jakobs",
+   "Touches": "187"
+  },
+  {
+   "Name": "Abolfazl Jalali",
+   "Touches": "34"
+  },
+  {
+   "Name": "Daniel James",
+   "Touches": "49"
+  },
+  {
+   "Name": "Vincent Janssen",
+   "Touches": "32"
+  },
+  {
+   "Name": "Ardon Jashari",
+   "Touches": "8"
+  },
+  {
+   "Name": "Issam Jebali",
+   "Touches": "60"
+  },
+  {
+   "Name": "Artur Jędrzejczyk",
+   "Touches": "5"
+  },
+  {
+   "Name": "Mathias Jensen",
+   "Touches": "77"
+  },
+  {
+   "Name": "Gabriel Jesus",
+   "Touches": "39"
+  },
+  {
+   "Name": "Raúl Jiménez",
+   "Touches": "37"
+  },
+  {
+   "Name": "Kim Jin-su",
+   "Touches": "177"
+  },
+  {
+   "Name": "Brennan Johnson",
+   "Touches": "33"
+  },
+  {
+   "Name": "Alistair Johnston",
+   "Touches": "212"
+  },
+  {
+   "Name": "Frenkie de Jong",
+   "Touches": "412"
+  },
+  {
+   "Name": "Luuk de Jong",
+   "Touches": "19"
+  },
+  {
+   "Name": "Luka Jović",
+   "Touches": "15"
+  },
+  {
+   "Name": "Son Jun-ho",
+   "Touches": "68"
+  },
+  {
+   "Name": "Vinicius Júnior",
+   "Touches": "135"
+  },
+  {
+   "Name": "Josip Juranović",
+   "Touches": "461"
+  },
+  {
+   "Name": "Daichi Kamada",
+   "Touches": "139"
+  },
+  {
+   "Name": "Jakub Kamiński",
+   "Touches": "93"
+  },
+  {
+   "Name": "Hossein Kanaanizadegan",
+   "Touches": "15"
+  },
+  {
+   "Name": "Harry Kane",
+   "Touches": "142"
+  },
+  {
+   "Name": "Mohamed Kanno",
+   "Touches": "187"
+  },
+  {
+   "Name": "Fran Karačić",
+   "Touches": "70"
+  },
+  {
+   "Name": "Ali Karimi",
+   "Touches": "55"
+  },
+  {
+   "Name": "Mark-Anthony Kaye",
+   "Touches": "68"
+  },
+  {
+   "Name": "Wajdi Kechrida",
+   "Touches": "84"
+  },
+  {
+   "Name": "Thilo Kehrer",
+   "Touches": "43"
+  },
+  {
+   "Name": "Bilal El Khannouss",
+   "Touches": "29"
+  },
+  {
+   "Name": "Wahbi Khazri",
+   "Touches": "37"
+  },
+  {
+   "Name": "Musab Kheder",
+   "Touches": "5"
+  },
+  {
+   "Name": "Boualem Khoukhi",
+   "Touches": "232"
+  },
+  {
+   "Name": "Joshua Kimmich",
+   "Touches": "302"
+  },
+  {
+   "Name": "Jakub Kiwior",
+   "Touches": "235"
+  },
+  {
+   "Name": "Simon Kjær",
+   "Touches": "68"
+  },
+  {
+   "Name": "Davy Klaassen",
+   "Touches": "96"
+  },
+  {
+   "Name": "Lukas Klostermann",
+   "Touches": "57"
+  },
+  {
+   "Name": "Gregor Kobel",
+   "Touches": "30"
+  },
+  {
+   "Name": "Koke",
+   "Touches": "68"
+  },
+  {
+   "Name": "Randal Kolo Muani",
+   "Touches": "75"
+  },
+  {
+   "Name": "Ibrahima Konaté",
+   "Touches": "278"
+  },
+  {
+   "Name": "Ismaël Koné",
+   "Touches": "103"
+  },
+  {
+   "Name": "Teun Koopmeiners",
+   "Touches": "147"
+  },
+  {
+   "Name": "Filip Kostić",
+   "Touches": "129"
+  },
+  {
+   "Name": "Kalidou Koulibaly",
+   "Touches": "261"
+  },
+  {
+   "Name": "Jules Koundé",
+   "Touches": "352"
+  },
+  {
+   "Name": "Cheikhou Kouyaté",
+   "Touches": "35"
+  },
+  {
+   "Name": "Mateo Kovačić",
+   "Touches": "524"
+  },
+  {
+   "Name": "Andrej Kramarić",
+   "Touches": "215"
+  },
+  {
+   "Name": "Grzegorz Krychowiak",
+   "Touches": "164"
+  },
+  {
+   "Name": "Takefusa Kubo",
+   "Touches": "22"
+  },
+  {
+   "Name": "Pierre Kunde",
+   "Touches": "71"
+  },
+  {
+   "Name": "Garang Kuol",
+   "Touches": "10"
+  },
+  {
+   "Name": "Daniel Kyereh",
+   "Touches": "31"
+  },
+  {
+   "Name": "Kwon Kyung-won",
+   "Touches": "54"
+  },
+  {
+   "Name": "Aïssa Laïdouni",
+   "Touches": "157"
+  },
+  {
+   "Name": "Tariq Lamptey",
+   "Touches": "51"
+  },
+  {
+   "Name": "Noa Lang",
+   "Touches": "5"
+  },
+  {
+   "Name": "Aymeric Laporte",
+   "Touches": "455"
+  },
+  {
+   "Name": "Cyle Larin",
+   "Touches": "44"
+  },
+  {
+   "Name": "Richie Laryea",
+   "Touches": "73"
+  },
+  {
+   "Name": "Darko Lazović",
+   "Touches": "14"
+  },
+  {
+   "Name": "Rafael Leão",
+   "Touches": "65"
+  },
+  {
+   "Name": "Mathew Leckie",
+   "Touches": "156"
+  },
+  {
+   "Name": "Robert Lewandowski",
+   "Touches": "153"
+  },
+  {
+   "Name": "Matthijs de Ligt",
+   "Touches": "49"
+  },
+  {
+   "Name": "Jesper Lindstrøm",
+   "Touches": "86"
+  },
+  {
+   "Name": "Marko Livaja",
+   "Touches": "83"
+  },
+  {
+   "Name": "Dominik Livaković",
+   "Touches": "245"
+  },
+  {
+   "Name": "Marcos Llorente",
+   "Touches": "107"
+  },
+  {
+   "Name": "Hugo Lloris",
+   "Touches": "202"
+  },
+  {
+   "Name": "Dejan Lovren",
+   "Touches": "516"
+  },
+  {
+   "Name": "Hirving Lozano",
+   "Touches": "113"
+  },
+  {
+   "Name": "Romelu Lukaku",
+   "Touches": "16"
+  },
+  {
+   "Name": "Saša Lukić",
+   "Touches": "182"
+  },
+  {
+   "Name": "Ali Maâloul",
+   "Touches": "72"
+  },
+  {
+   "Name": "Awer Mabil",
+   "Touches": "19"
+  },
+  {
+   "Name": "Alexis Mac Allister",
+   "Touches": "332"
+  },
+  {
+   "Name": "Jamie Maclaren",
+   "Touches": "15"
+  },
+  {
+   "Name": "Assim Madibo",
+   "Touches": "86"
+  },
+  {
+   "Name": "Abdullah Madu",
+   "Touches": "18"
+  },
+  {
+   "Name": "Daizen Maeda",
+   "Touches": "32"
+  },
+  {
+   "Name": "Harry Maguire",
+   "Touches": "447"
+  },
+  {
+   "Name": "Lovro Majer",
+   "Touches": "122"
+  },
+  {
+   "Name": "Nemanja Maksimović",
+   "Touches": "76"
+  },
+  {
+   "Name": "Abdulellah Al-Malki",
+   "Touches": "104"
+  },
+  {
+   "Name": "Steve Mandanda",
+   "Touches": "32"
+  },
+  {
+   "Name": "José María Giménez",
+   "Touches": "213"
+  },
+  {
+   "Name": "João Mário",
+   "Touches": "51"
+  },
+  {
+   "Name": "Marquinhos",
+   "Touches": "392"
+  },
+  {
+   "Name": "Henry Martín",
+   "Touches": "36"
+  },
+  {
+   "Name": "Martinelli",
+   "Touches": "72"
+  },
+  {
+   "Name": "Carlos Martínez",
+   "Touches": "20"
+  },
+  {
+   "Name": "Emiliano Martínez",
+   "Touches": "196"
+  },
+  {
+   "Name": "Lautaro Martínez",
+   "Touches": "99"
+  },
+  {
+   "Name": "Lisandro Martínez",
+   "Touches": "188"
+  },
+  {
+   "Name": "Pape Matar Sarr",
+   "Touches": "54"
+  },
+  {
+   "Name": "Rónald Matarrita",
+   "Touches": "32"
+  },
+  {
+   "Name": "Eric Maxim Choupo-Moting",
+   "Touches": "88"
+  },
+  {
+   "Name": "Noussair Mazraoui",
+   "Touches": "176"
+  },
+  {
+   "Name": "Kylian Mbappé",
+   "Touches": "322"
+  },
+  {
+   "Name": "Bryan Mbeumo",
+   "Touches": "107"
+  },
+  {
+   "Name": "Riley McGree",
+   "Touches": "107"
+  },
+  {
+   "Name": "Weston McKennie",
+   "Touches": "179"
+  },
+  {
+   "Name": "Hannibal Mejbri",
+   "Touches": "4"
+  },
+  {
+   "Name": "Memphis",
+   "Touches": "167"
+  },
+  {
+   "Name": "Nuno Mendes",
+   "Touches": "37"
+  },
+  {
+   "Name": "Jhegson Méndez",
+   "Touches": "149"
+  },
+  {
+   "Name": "Edouard Mendy",
+   "Touches": "127"
+  },
+  {
+   "Name": "Nampalys Mendy",
+   "Touches": "182"
+  },
+  {
+   "Name": "Gideon Mensah",
+   "Touches": "59"
+  },
+  {
+   "Name": "Chris Mepham",
+   "Touches": "200"
+  },
+  {
+   "Name": "Yassine Meriah",
+   "Touches": "208"
+  },
+  {
+   "Name": "Dries Mertens",
+   "Touches": "39"
+  },
+  {
+   "Name": "Lionel Messi",
+   "Touches": "462"
+  },
+  {
+   "Name": "Thomas Meunier",
+   "Touches": "173"
+  },
+  {
+   "Name": "Nikola Milenković",
+   "Touches": "200"
+  },
+  {
+   "Name": "Arkadiusz Milik",
+   "Touches": "40"
+  },
+  {
+   "Name": "Sergej Milinković-Savić",
+   "Touches": "162"
+  },
+  {
+   "Name": "Vanja Milinković-Savić",
+   "Touches": "136"
+  },
+  {
+   "Name": "Éder Militão",
+   "Touches": "307"
+  },
+  {
+   "Name": "Liam Millar",
+   "Touches": "9"
+  },
+  {
+   "Name": "Kamal Miller",
+   "Touches": "229"
+  },
+  {
+   "Name": "Kim Min-jae",
+   "Touches": "213"
+  },
+  {
+   "Name": "Takumi Minamino",
+   "Touches": "31"
+  },
+  {
+   "Name": "Kaoru Mitoma",
+   "Touches": "100"
+  },
+  {
+   "Name": "Aleksandar Mitrović",
+   "Touches": "95"
+  },
+  {
+   "Name": "Stefan Mitrović",
+   "Touches": "22"
+  },
+  {
+   "Name": "Filip Mladenović",
+   "Touches": "32"
+  },
+  {
+   "Name": "Luka Modrić",
+   "Touches": "613"
+  },
+  {
+   "Name": "Ismail Mohamad"
+  },
+  {
+   "Name": "Milad Mohammadi",
+   "Touches": "94"
+  },
+  {
+   "Name": "Kudus Mohammed",
+   "Touches": "119"
+  },
+  {
+   "Name": "Sadegh Moharrami",
+   "Touches": "34"
+  },
+  {
+   "Name": "Nahuel Molina",
+   "Touches": "405"
+  },
+  {
+   "Name": "César Montes",
+   "Touches": "222"
+  },
+  {
+   "Name": "Gonzalo Montiel",
+   "Touches": "95"
+  },
+  {
+   "Name": "Kim Moonhwan",
+   "Touches": "293"
+  },
+  {
+   "Name": "Kieffer Moore",
+   "Touches": "95"
+  },
+  {
+   "Name": "Shaquell Moore",
+   "Touches": "27"
+  },
+  {
+   "Name": "Aaron Mooy",
+   "Touches": "256"
+  },
+  {
+   "Name": "Álvaro Morata",
+   "Touches": "60"
+  },
+  {
+   "Name": "Héctor Moreno",
+   "Touches": "210"
+  },
+  {
+   "Name": "Hidemasa Morita",
+   "Touches": "194"
+  },
+  {
+   "Name": "Joe Morrell",
+   "Touches": "24"
+  },
+  {
+   "Name": "Jordan Morris",
+   "Touches": "5"
+  },
+  {
+   "Name": "Youssoufa Moukoko",
+   "Touches": "2"
+  },
+  {
+   "Name": "Mason Mount",
+   "Touches": "91"
+  },
+  {
+   "Name": "Youssef Msakni",
+   "Touches": "92"
+  },
+  {
+   "Name": "Thomas Müller",
+   "Touches": "91"
+  },
+  {
+   "Name": "Munir",
+   "Touches": "31"
+  },
+  {
+   "Name": "Mohammed Muntari",
+   "Touches": "28"
+  },
+  {
+   "Name": "Yunus Musah",
+   "Touches": "222"
+  },
+  {
+   "Name": "Jamal Musiala",
+   "Touches": "165"
+  },
+  {
+   "Name": "Joakim Mæhle",
+   "Touches": "189"
+  },
+  {
+   "Name": "Georges-Kévin N'Koudou",
+   "Touches": "21"
+  },
+  {
+   "Name": "Yuto Nagatomo",
+   "Touches": "122"
+  },
+  {
+   "Name": "Sami Al-Najei",
+   "Touches": "26"
+  },
+  {
+   "Name": "Keylor Navas",
+   "Touches": "113"
+  },
+  {
+   "Name": "Iliman Ndiaye",
+   "Touches": "44"
+  },
+  {
+   "Name": "Victor Nelsson",
+   "Touches": "79"
+  },
+  {
+   "Name": "Manuel Neuer",
+   "Touches": "133"
+  },
+  {
+   "Name": "Rúben Neves",
+   "Touches": "275"
+  },
+  {
+   "Name": "Neymar",
+   "Touches": "209"
+  },
+  {
+   "Name": "Moumi Ngamaleu",
+   "Touches": "36"
+  },
+  {
+   "Name": "Jerome Ngom Mbekeli",
+   "Touches": "4"
+  },
+  {
+   "Name": "Rasmus Nissen",
+   "Touches": "208"
+  },
+  {
+   "Name": "Nicolas Nkoulou",
+   "Touches": "115"
+  },
+  {
+   "Name": "Andries Noppert",
+   "Touches": "206"
+  },
+  {
+   "Name": "Ahmad Nourollahi",
+   "Touches": "85"
+  },
+  {
+   "Name": "Olivier Ntcham",
+   "Touches": "14"
+  },
+  {
+   "Name": "Matheus Nunes",
+   "Touches": "40"
+  },
+  {
+   "Name": "Darwin Núñez",
+   "Touches": "86"
+  },
+  {
+   "Name": "Christian Nørgaard",
+   "Touches": "15"
+  },
+  {
+   "Name": "Guillermo Ochoa",
+   "Touches": "111"
+  },
+  {
+   "Name": "Denis Odoi",
+   "Touches": "7"
+  },
+  {
+   "Name": "Noah Okafor",
+   "Touches": "29"
+  },
+  {
+   "Name": "Mathías Olivera",
+   "Touches": "183"
+  },
+  {
+   "Name": "Dani Olmo",
+   "Touches": "259"
+  },
+  {
+   "Name": "Amadou Onana",
+   "Touches": "76"
+  },
+  {
+   "Name": "André Onana",
+   "Touches": "60"
+  },
+  {
+   "Name": "Gaël Ondoua",
+   "Touches": "25"
+  },
+  {
+   "Name": "Loïs Openda",
+   "Touches": "10"
+  },
+  {
+   "Name": "Mislav Oršić",
+   "Touches": "81"
+  },
+  {
+   "Name": "Jonathan Osorio",
+   "Touches": "67"
+  },
+  {
+   "Name": "Nicolás Otamendi",
+   "Touches": "641"
+  },
+  {
+   "Name": "Otávio",
+   "Touches": "147"
+  },
+  {
+   "Name": "Samuel Oum Gouet",
+   "Touches": "65"
+  },
+  {
+   "Name": "Azzedine Ounahi",
+   "Touches": "330"
+  },
+  {
+   "Name": "Bryan Oviedo",
+   "Touches": "114"
+  },
+  {
+   "Name": "Mohammed Al-Owais",
+   "Touches": "113"
+  },
+  {
+   "Name": "Juan Pablo Vargas",
+   "Touches": "43"
+  },
+  {
+   "Name": "Exequiel Palacios",
+   "Touches": "34"
+  },
+  {
+   "Name": "João Palhinha",
+   "Touches": "41"
+  },
+  {
+   "Name": "Lucas Paquetá",
+   "Touches": "231"
+  },
+  {
+   "Name": "Leandro Paredes",
+   "Touches": "270"
+  },
+  {
+   "Name": "Thomas Partey",
+   "Touches": "219"
+  },
+  {
+   "Name": "Mario Pašalić",
+   "Touches": "132"
+  },
+  {
+   "Name": "Benjamin Pavard",
+   "Touches": "94"
+  },
+  {
+   "Name": "Strahinja Pavlović",
+   "Touches": "186"
+  },
+  {
+   "Name": "Pedri",
+   "Touches": "468"
+  },
+  {
+   "Name": "Pedro",
+   "Touches": "25"
+  },
+  {
+   "Name": "Facundo Pellistri",
+   "Touches": "68"
+  },
+  {
+   "Name": "Pepe",
+   "Touches": "331"
+  },
+  {
+   "Name": "Danilo Pereira",
+   "Touches": "87"
+  },
+  {
+   "Name": "Ivan Perišić",
+   "Touches": "378"
+  },
+  {
+   "Name": "Bruno Petković",
+   "Touches": "102"
+  },
+  {
+   "Name": "Germán Pezzella",
+   "Touches": "47"
+  },
+  {
+   "Name": "Kalvin Phillips",
+   "Touches": "20"
+  },
+  {
+   "Name": "Krzysztof Piątek",
+   "Touches": "9"
+  },
+  {
+   "Name": "Jordan Pickford",
+   "Touches": "169"
+  },
+  {
+   "Name": "Orbelín Pineda",
+   "Touches": "47"
+  },
+  {
+   "Name": "Gonzalo Plata",
+   "Touches": "133"
+  },
+  {
+   "Name": "Jackson Porozo",
+   "Touches": "58"
+  },
+  {
+   "Name": "Morteza Pouraliganji",
+   "Touches": "156"
+  },
+  {
+   "Name": "Ángelo Preciado",
+   "Touches": "160"
+  },
+  {
+   "Name": "Christian Pulisic",
+   "Touches": "191"
+  },
+  {
+   "Name": "Adrien Rabiot",
+   "Touches": "352"
+  },
+  {
+   "Name": "Nemanja Radonjić",
+   "Touches": "37"
+  },
+  {
+   "Name": "Baba Rahman",
+   "Touches": "121"
+  },
+  {
+   "Name": "Gonçalo Ramos",
+   "Touches": "56"
+  },
+  {
+   "Name": "Aaron Ramsey",
+   "Touches": "143"
+  },
+  {
+   "Name": "Raphinha",
+   "Touches": "194"
+  },
+  {
+   "Name": "Marcus Rashford",
+   "Touches": "92"
+  },
+  {
+   "Name": "David Raum",
+   "Touches": "232"
+  },
+  {
+   "Name": "Bassam Al-Rawi",
+   "Touches": "68"
+  },
+  {
+   "Name": "Tim Ream",
+   "Touches": "306"
+  },
+  {
+   "Name": "Djorkaeff Reasco",
+   "Touches": "3"
+  },
+  {
+   "Name": "Gio Reyna",
+   "Touches": "42"
+  },
+  {
+   "Name": "Ramin Rezaeian",
+   "Touches": "130"
+  },
+  {
+   "Name": "Everton Ribeiro",
+   "Touches": "21"
+  },
+  {
+   "Name": "Declan Rice",
+   "Touches": "360"
+  },
+  {
+   "Name": "Richarlison",
+   "Touches": "99"
+  },
+  {
+   "Name": "Fabian Rieder",
+   "Touches": "34"
+  },
+  {
+   "Name": "Ró-Ró",
+   "Touches": "135"
+  },
+  {
+   "Name": "Connor Roberts",
+   "Touches": "140"
+  },
+  {
+   "Name": "Antonee Robinson",
+   "Touches": "290"
+  },
+  {
+   "Name": "Sergio Rochet",
+   "Touches": "89"
+  },
+  {
+   "Name": "Joe Rodon",
+   "Touches": "192"
+  },
+  {
+   "Name": "Rodri",
+   "Touches": "711"
+  },
+  {
+   "Name": "Charly Rodríguez",
+   "Touches": "36"
+  },
+  {
+   "Name": "Guido Rodríguez",
+   "Touches": "68"
+  },
+  {
+   "Name": "Kevin Rodríguez"
+  },
+  {
+   "Name": "Ricardo Rodríguez",
+   "Touches": "253"
+  },
+  {
+   "Name": "Rodrygo",
+   "Touches": "153"
+  },
+  {
+   "Name": "Mohamed Ali Ben Romdhane",
+   "Touches": "31"
+  },
+  {
+   "Name": "Cristian Romero",
+   "Touches": "425"
+  },
+  {
+   "Name": "Cristiano Ronaldo",
+   "Touches": "118"
+  },
+  {
+   "Name": "Marten de Roon",
+   "Touches": "143"
+  },
+  {
+   "Name": "Kye Rowles",
+   "Touches": "232"
+  },
+  {
+   "Name": "Antonio Rüdiger",
+   "Touches": "272"
+  },
+  {
+   "Name": "Bryan Ruiz",
+   "Touches": "14"
+  },
+  {
+   "Name": "Mathew Ryan",
+   "Touches": "176"
+  },
+  {
+   "Name": "Youssouf Sabaly",
+   "Touches": "256"
+  },
+  {
+   "Name": "Abdelhamid Sabiri",
+   "Touches": "86"
+  },
+  {
+   "Name": "Romain Saïss",
+   "Touches": "247"
+  },
+  {
+   "Name": "Bukayo Saka",
+   "Touches": "150"
+  },
+  {
+   "Name": "Hiroki Sakai",
+   "Touches": "70"
+  },
+  {
+   "Name": "Youstin Salas",
+   "Touches": "29"
+  },
+  {
+   "Name": "William Saliba",
+   "Touches": "38"
+  },
+  {
+   "Name": "Mohammed Salisu",
+   "Touches": "184"
+  },
+  {
+   "Name": "Tarek Salman",
+   "Touches": "13"
+  },
+  {
+   "Name": "Alex Sandro",
+   "Touches": "195"
+  },
+  {
+   "Name": "Leroy Sané",
+   "Touches": "67"
+  },
+  {
+   "Name": "Na Sang-ho",
+   "Touches": "60"
+  },
+  {
+   "Name": "Pablo Sarabia",
+   "Touches": "6"
+  },
+  {
+   "Name": "Josh Sargent",
+   "Touches": "48"
+  },
+  {
+   "Name": "Jeremy Sarmiento",
+   "Touches": "45"
+  },
+  {
+   "Name": "Ismaila Sarr",
+   "Touches": "132"
+  },
+  {
+   "Name": "Ferjani Sassi",
+   "Touches": "40"
+  },
+  {
+   "Name": "Fabian Schär",
+   "Touches": "100"
+  },
+  {
+   "Name": "Nico Schlotterbeck",
+   "Touches": "135"
+  },
+  {
+   "Name": "Kasper Schmeichel",
+   "Touches": "91"
+  },
+  {
+   "Name": "Haris Seferović",
+   "Touches": "20"
+  },
+  {
+   "Name": "Alidu Seidu",
+   "Touches": "101"
+  },
+  {
+   "Name": "Antoine Semenyo",
+   "Touches": "6"
+  },
+  {
+   "Name": "Kim Seung-gyu",
+   "Touches": "139"
+  },
+  {
+   "Name": "Paik Seung-ho",
+   "Touches": "31"
+  },
+  {
+   "Name": "Yasser Al-Shahrani",
+   "Touches": "44"
+  },
+  {
+   "Name": "Xherdan Shaqiri",
+   "Touches": "113"
+  },
+  {
+   "Name": "Riyadh Sharahili",
+   "Touches": "29"
+  },
+  {
+   "Name": "Luke Shaw",
+   "Touches": "420"
+  },
+  {
+   "Name": "Saad Al Sheeb",
+   "Touches": "22"
+  },
+  {
+   "Name": "Saleh Al-Shehri",
+   "Touches": "74"
+  },
+  {
+   "Name": "André Silva",
+   "Touches": "14"
+  },
+  {
+   "Name": "António Silva",
+   "Touches": "67"
+  },
+  {
+   "Name": "Bernardo Silva",
+   "Touches": "310"
+  },
+  {
+   "Name": "Thiago Silva",
+   "Touches": "369"
+  },
+  {
+   "Name": "Unai Simón",
+   "Touches": "167"
+  },
+  {
+   "Name": "Xavi Simons",
+   "Touches": "11"
+  },
+  {
+   "Name": "Ellyes Skhiri",
+   "Touches": "161"
+  },
+  {
+   "Name": "Michał Skóraś",
+   "Touches": "12"
+  },
+  {
+   "Name": "Andreas Skov Olsen",
+   "Touches": "78"
+  },
+  {
+   "Name": "Robert Skov",
+   "Touches": "23"
+  },
+  {
+   "Name": "Naïm Sliti",
+   "Touches": "65"
+  },
+  {
+   "Name": "Carlos Soler",
+   "Touches": "88"
+  },
+  {
+   "Name": "Yuki Soma",
+   "Touches": "27"
+  },
+  {
+   "Name": "Yann Sommer",
+   "Touches": "126"
+  },
+  {
+   "Name": "Borna Sosa",
+   "Touches": "336"
+  },
+  {
+   "Name": "Harry Souttar",
+   "Touches": "212"
+  },
+  {
+   "Name": "Djibril Sow",
+   "Touches": "115"
+  },
+  {
+   "Name": "Josip Stanišić",
+   "Touches": "56"
+  },
+  {
+   "Name": "Renato Steffen",
+   "Touches": "20"
+  },
+  {
+   "Name": "Raheem Sterling",
+   "Touches": "69"
+  },
+  {
+   "Name": "John Stones",
+   "Touches": "475"
+  },
+  {
+   "Name": "Luis Suárez",
+   "Touches": "52"
+  },
+  {
+   "Name": "Niklas Süle",
+   "Touches": "267"
+  },
+  {
+   "Name": "Kamaldeen Sulemana",
+   "Touches": "30"
+  },
+  {
+   "Name": "Josip Šutalo",
+   "Touches": "73"
+  },
+  {
+   "Name": "Karol Świderski",
+   "Touches": "15"
+  },
+  {
+   "Name": "Wojciech Szczęsny",
+   "Touches": "160"
+  },
+  {
+   "Name": "Damian Szymański",
+   "Touches": "9"
+  },
+  {
+   "Name": "Sebastian Szymański",
+   "Touches": "61"
+  },
+  {
+   "Name": "Dušan Tadić",
+   "Touches": "151"
+  },
+  {
+   "Name": "Nicolás Tagliafico",
+   "Touches": "220"
+  },
+  {
+   "Name": "Montassar Talbi",
+   "Touches": "177"
+  },
+  {
+   "Name": "Hassan Al Tambakti",
+   "Touches": "76"
+  },
+  {
+   "Name": "Ao Tanaka",
+   "Touches": "85"
+  },
+  {
+   "Name": "Shogo Taniguchi",
+   "Touches": "105"
+  },
+  {
+   "Name": "Mehdi Taremi",
+   "Touches": "122"
+  },
+  {
+   "Name": "Kenneth Taylor",
+   "Touches": "9"
+  },
+  {
+   "Name": "Aurélien Tchouaméni",
+   "Touches": "532"
+  },
+  {
+   "Name": "Yeltsin Tejeda",
+   "Touches": "129"
+  },
+  {
+   "Name": "Alex Telles",
+   "Touches": "46"
+  },
+  {
+   "Name": "Sorba Thomas",
+   "Touches": "6"
+  },
+  {
+   "Name": "Marcus Thuram",
+   "Touches": "74"
+  },
+  {
+   "Name": "Youri Tielemans",
+   "Touches": "77"
+  },
+  {
+   "Name": "Jurriën Timber",
+   "Touches": "360"
+  },
+  {
+   "Name": "Karl Toko Ekambi",
+   "Touches": "68"
+  },
+  {
+   "Name": "Nouhou Tolo",
+   "Touches": "148"
+  },
+  {
+   "Name": "Takehiro Tomiyasu",
+   "Touches": "117"
+  },
+  {
+   "Name": "Mehdi Torabi",
+   "Touches": "48"
+  },
+  {
+   "Name": "Félix Torres Caicedo",
+   "Touches": "233"
+  },
+  {
+   "Name": "Ferrán Torres",
+   "Touches": "117"
+  },
+  {
+   "Name": "Gerson Torres",
+   "Touches": "25"
+  },
+  {
+   "Name": "Pau Torres",
+   "Touches": "194"
+  },
+  {
+   "Name": "Kieran Trippier",
+   "Touches": "207"
+  },
+  {
+   "Name": "Leandro Trossard",
+   "Touches": "68"
+  },
+  {
+   "Name": "Matt Turner",
+   "Touches": "136"
+  },
+  {
+   "Name": "Ayase Ueda",
+   "Touches": "23"
+  },
+  {
+   "Name": "Hwang Ui-jo",
+   "Touches": "18"
+  },
+  {
+   "Name": "Dayot Upamecano",
+   "Touches": "395"
+  },
+  {
+   "Name": "Enner Valencia",
+   "Touches": "99"
+  },
+  {
+   "Name": "Federico Valverde",
+   "Touches": "227"
+  },
+  {
+   "Name": "Virgil van Dijk",
+   "Touches": "399"
+  },
+  {
+   "Name": "Raphaël Varane",
+   "Touches": "321"
+  },
+  {
+   "Name": "Guillermo Varela",
+   "Touches": "108"
+  },
+  {
+   "Name": "Ruben Vargas",
+   "Touches": "144"
+  },
+  {
+   "Name": "Matías Vecino",
+   "Touches": "131"
+  },
+  {
+   "Name": "Alexis Vega",
+   "Touches": "83"
+  },
+  {
+   "Name": "Miloš Veljković",
+   "Touches": "126"
+  },
+  {
+   "Name": "Johan Venegas",
+   "Touches": "21"
+  },
+  {
+   "Name": "Jordan Veretout",
+   "Touches": "43"
+  },
+  {
+   "Name": "Jan Vertonghen",
+   "Touches": "294"
+  },
+  {
+   "Name": "Matías Viña",
+   "Touches": "26"
+  },
+  {
+   "Name": "Vitinha",
+   "Touches": "118"
+  },
+  {
+   "Name": "Steven Vitória",
+   "Touches": "204"
+  },
+  {
+   "Name": "Dušan Vlahović",
+   "Touches": "20"
+  },
+  {
+   "Name": "Nikola Vlašić",
+   "Touches": "81"
+  },
+  {
+   "Name": "Mohammed Waad",
+   "Touches": "16"
+  },
+  {
+   "Name": "Kyle Walker",
+   "Touches": "197"
+  },
+  {
+   "Name": "Danny Ward",
+   "Touches": "42"
+  },
+  {
+   "Name": "Kendall Waston",
+   "Touches": "107"
+  },
+  {
+   "Name": "Timothy Weah",
+   "Touches": "133"
+  },
+  {
+   "Name": "Wout Weghorst",
+   "Touches": "22"
+  },
+  {
+   "Name": "Wéverton",
+   "Touches": "5"
+  },
+  {
+   "Name": "Silvan Widmer",
+   "Touches": "211"
+  },
+  {
+   "Name": "Iñaki Williams",
+   "Touches": "63"
+  },
+  {
+   "Name": "Neco Williams",
+   "Touches": "136"
+  },
+  {
+   "Name": "Nico Williams",
+   "Touches": "90"
+  },
+  {
+   "Name": "Callum Wilson",
+   "Touches": "17"
+  },
+  {
+   "Name": "Harry Wilson",
+   "Touches": "82"
+  },
+  {
+   "Name": "Roan Wilson",
+   "Touches": "8"
+  },
+  {
+   "Name": "Axel Witsel",
+   "Touches": "200"
+  },
+  {
+   "Name": "Jeong Woo-yeong",
+   "Touches": "20"
+  },
+  {
+   "Name": "Jung Woo-young",
+   "Touches": "241"
+  },
+  {
+   "Name": "Christopher Wooh",
+   "Touches": "45"
+  },
+  {
+   "Name": "David Wotherspoon",
+   "Touches": "9"
+  },
+  {
+   "Name": "Bailey Wright",
+   "Touches": "5"
+  },
+  {
+   "Name": "Haji Wright",
+   "Touches": "45"
+  },
+  {
+   "Name": "Granit Xhaka",
+   "Touches": "274"
+  },
+  {
+   "Name": "Miki Yamane",
+   "Touches": "38"
+  },
+  {
+   "Name": "Jawad El Yamiq",
+   "Touches": "202"
+  },
+  {
+   "Name": "Taha Yassine Khenissi",
+   "Touches": "8"
+  },
+  {
+   "Name": "DeAndre Yedlin",
+   "Touches": "32"
+  },
+  {
+   "Name": "Maya Yoshida",
+   "Touches": "276"
+  },
+  {
+   "Name": "Kim Young-gwon",
+   "Touches": "233"
+  },
+  {
+   "Name": "Cho Yumin",
+   "Touches": "0"
+  },
+  {
+   "Name": "Denis Zakaria",
+   "Touches": "32"
+  },
+  {
+   "Name": "Nicola Zalewski",
+   "Touches": "29"
+  },
+  {
+   "Name": "Andre-Frank Zambo Anguissa",
+   "Touches": "158"
+  },
+  {
+   "Name": "Álvaro Zamora",
+   "Touches": "9"
+  },
+  {
+   "Name": "Anass Zaroury",
+   "Touches": "15"
+  },
+  {
+   "Name": "Piotr Zieliński",
+   "Touches": "179"
+  },
+  {
+   "Name": "Walker Zimmerman",
+   "Touches": "275"
+  },
+  {
+   "Name": "Andrija Živković",
+   "Touches": "120"
+  },
+  {
+   "Name": "Hakim Ziyech",
+   "Touches": "391"
+  },
+  {
+   "Name": "Filip Đuričić",
+   "Touches": "9"
+  },
+  {
+   "Name": "이강인"
+  }
+ ]
+}]

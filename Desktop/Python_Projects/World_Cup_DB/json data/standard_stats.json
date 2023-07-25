@@ -1,0 +1,6804 @@
+[{
+ "Player": [
+  {
+   "Name": "Brenden Aaronson",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "108",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Abdi",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "188",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Salis Abdul Samed",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "250",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Saud Abdulhamid",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "270",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nawaf Al Abed",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "88",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pape Abou Cissé",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "105",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Vincent Aboubakar",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "142",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "1"
+  },
+  {
+   "Name": "Abdulrahman Al-Aboud",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "35",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Zakaria Aboukhlal",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "79",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kellyn Acosta",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "43",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marcos Acuña",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "373",
+   "Position": "DF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Tyler Adams",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "360",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sam Adekugbe",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "95",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Michel Aebischer",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "16",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Akram Afif",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nayef Aguerd",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "353",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Brandon Aguilera",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "90",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Homam Ahmed",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "262",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Manuel Akanji",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nathan Aké",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "479",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ahmed Alaaeldin",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "6",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordi Alba",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "264",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Toby Alderweireld",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Trent Alexander-Arnold",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "34",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Almoez Ali",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "224",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alisson",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "379",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joe Allen",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "94",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thiago Almada",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "7",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Roberto Alvarado",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "18",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Edson Álvarez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "175",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Julián Álvarez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "464",
+   "Position": "FW",
+   "Goals": "4",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kevin Álvarez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "70",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dani Alves",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "39",
+   "Minutes_Played": "118",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Selim Amallah",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "409",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daniel Amartey",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "251",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ethan Ampadu",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "255",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sofyan Amrabat",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "660",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdulelah Al-Amri",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "182",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joachim Andersen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Karim Ansarifard",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "35",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Antony",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "172",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Uriel Antuna",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "77",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Néstor Araujo",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Takuma Asano",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "165",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marco Asensio",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "229",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Assadalla",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "27",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lawrence Ati-Zigi",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nathaniel Atkinson",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "84",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yahya Attiat Allah",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "318",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "André Ayew",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "198",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordan Ayew",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "136",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Sardar Azmoun",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "126",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "César Azpilicueta",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "135",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Srđan Babić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "13",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Keanu Baccus",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "114",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alexander Bah",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "46",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hattan Bahebri",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "4",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Alejandro Balde",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "126",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gareth Bale",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "225",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fodé Ballo-Touré",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "7",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Badr Banoun",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "54",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Borna Barišić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "120",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Meshaal Barsham",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "180",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Christian Bassogog",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "24",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Michy Batshuayi",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "151",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jan Bednarek",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "5",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aziz Behich",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alireza Beiranvand",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "109",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jude Bellingham",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "414",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Anis Ben Slimane",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "148",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jewison Bennette",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "17",
+   "Minutes_Played": "103",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rodrigo Bentancur",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "213",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bartosz Bereszyński",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "341",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Steven Berghuis",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "200",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Steven Bergwijn",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "213",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Krystian Bielik",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "216",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daley Blind",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "423",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Celso Borges",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "249",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Milan Borjan",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Karim Boudiaf",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "185",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sofiane Boufal",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "475",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yassine Bounou",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "570",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Martin Braithwaite",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "103",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohammed Al-Breik",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "65",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gleison Bremer",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "109",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dylan Bronn",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "162",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marcelo Brozović",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "552",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Tajon Buchanan",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "260",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Ante Budimir",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "55",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Osman Bukari",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Al-Bulaihi",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "216",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Firas Al-Buraikan",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "268",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Sergio Busquets",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "363",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Martín Cáceres",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Moisés Caicedo",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "269",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Francisco Calvo",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Eduardo Camavinga",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "140",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joel Campbell",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "269",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "João Cancelo",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "310",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Agustín Canobbio",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "11",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yannick Carrasco",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "116",
+   "Position": "FW,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cameron Carter-Vickers",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dani Carvajal",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "135",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "William Carvalho",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "215",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Casemiro",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "390",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Matty Cash",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Timothy Castagne",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jean-Charles Castelletto",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Lucas Cavallini",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "19",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Edinson Cavani",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "124",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ghaylène Chaalali",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "17",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daniel Chacón",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "1",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ilias Chair",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kwon Chang-hoon",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "56",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Luis Chávez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Walid Cheddira",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "64",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Roozbeh Cheshmi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "58",
+   "Position": "DF,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andreas Christensen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hong Chul",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "45",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "José Cifuentes",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pathé Ciss",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "146",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sebastián Coates",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rubin Colwill",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "10",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kingsley Coman",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "169",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Eray Cömert",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "46",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Anthony Contreras",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "125",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andreas Cornelius",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "92",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ángel Correa",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "5",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Diogo Costa",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "450",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thibaut Courtois",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jason Cummings",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "35",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aymen Dahmen",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Diogo Dalot",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "258",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Mikkel Damsgaard",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "150",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Danilo",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "281",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Achraf Dari",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "187",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jonathan David",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "192",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alphonso Davies",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "270",
+   "Position": "MF,DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ben Davies",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "238",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nasser Al-Dawsari",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "5",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Salem Al-Dawsari",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Giorgian De Arrascaeta",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "108",
+   "Position": "MF",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kevin De Bruyne",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Charles De Ketelaere",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "16",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nicolás De La Cruz",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "38",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rodrigo De Paul",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "599",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Miloš Degenek",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "183",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thomas Delaney",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "44",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ousmane Dembélé",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "433",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Leander Dendoncker",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "161",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sergiño Dest",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "305",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Ángel Di María",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "288",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Boulaye Dia",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "318",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdou Diallo",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "331",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rúben Dias",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Krépin Diatta",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "181",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Famara Diedhiou",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "92",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bamba Dieng",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "100",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Eric Dier",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "36",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Axel Disasi",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "92",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alexander Djiku",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "97",
+   "Position": "DF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ritsu Doan",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "217",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jeremy Doku",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "19",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kasper Dolberg",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "114",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohamed Dräger",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "132",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Óscar Duarte",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mitchell Duke",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "270",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Denzel Dumfries",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "479",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Paulo Dybala",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "18",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Enzo Ebosse",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ederson",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "90",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jorge Eduardo Sánchez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "175",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nico Elvedi",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Breel Embolo",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "323",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Youssef En-Nesyri",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "542",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wataru Endo",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "304",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Devis Epassy",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "180",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Christian Eriksen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Michael Estrada",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "225",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pervis Estupiñán",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Stephen Eustáquio",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "125",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Saeid Ezatolahi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "217",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdessamad Ezzalzouli",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "93",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fabinho",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "90",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Collins Fai",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Salman Al-Faraj",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "44",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Christian Fassnacht",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "8",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdul Fatawu Issahaku",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "1",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ansu Fati",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "46",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "João Félix",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "331",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Bruno Fernandes",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "356",
+   "Position": "FW,MF",
+   "Goals": "2",
+   "Assists": "3"
+  },
+  {
+   "Name": "Edimilson Fernandes",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "145",
+   "Position": "FW,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Enzo Fernández",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "564",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Jesús Ferreira",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "45",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Phil Foden",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "258",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Youssouf Fofana",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "227",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Juan Foyth",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "5",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alan Franco",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "46",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Przemysław Frankowski",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "240",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fred",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "142",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fabian Frei",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "25",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Remo Freuler",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "323",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Keysher Fuller",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "253",
+   "Position": "DF,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Niclas Füllkrug",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "69",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "1"
+  },
+  {
+   "Name": "Rogelio Funes Mori",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "5",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cody Gakpo",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "450",
+   "Position": "FW,MF",
+   "Goals": "3",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hernán Galíndez",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jesús Gallardo",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Idrissa Gana Gueye",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gavi",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "17",
+   "Minutes_Played": "284",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sultan Al-Ghanam",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "126",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nader Ghandri",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Saman Ghoddos",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Gholizadeh",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "199",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Matthias Ginter",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "1",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Olivier Giroud",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "419",
+   "Position": "FW",
+   "Goals": "4",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kamil Glik",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Serge Gnabry",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "263",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Diego Godín",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "36",
+   "Minutes_Played": "151",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Maxi Gómez",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "30",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Papu Gómez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "107",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Shūichi Gonda",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "390",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Craig Goodwin",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "234",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Leon Goretzka",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "159",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mario Götze",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "36",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jack Grealish",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "86",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Antoine Griezmann",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "537",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "3"
+  },
+  {
+   "Name": "Kamil Grosicki",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "4",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Carlos Gruezo",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marko Grujić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "13",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andrés Guardado",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "41",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nemanja Gudelj",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "92",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mattéo Guendouzi",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "78",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Raphaël Guerreiro",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "279",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Cho Guesung",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "275",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pape Gueye",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "153",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bruno Guimarães",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "69",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "İlkay Gündoğan",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "189",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Erick Gutiérrez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "49",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joško Gvardiol",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "690",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Asiri Haitham",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "2",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ehsan Hajsafi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "237",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Achraf Hakimi",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "631",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Abderrazak Hamdallah",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "68",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdelkarim Hassan",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Al Hassan",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdulaziz Hatem",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "196",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kai Havertz",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "102",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hassan Al-Haydos",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "206",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Eden Hazard",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "124",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thorgan Hazard",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "106",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hwang Hee-chan",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "115",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordan Henderson",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "271",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wayne Hennessey",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "175",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lucas Hernández",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "12",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Theo Hernández",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "508",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Héctor Herrera",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "160",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Son Heung-min",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "360",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Piero Hincapié",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jonas Hofmann",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "30",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Junior Hoilett",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "161",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Martin Hongla",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "121",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ricardo Horta",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "119",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hossein Hosseini",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "161",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Majid Hosseini",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ajdin Hrustic",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "62",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Atiba Hutchinson",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "39",
+   "Minutes_Played": "159",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pierre Højbjerg",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Romario Ibarra",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "68",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ivan Ilić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "34",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hwang In-beom",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "334",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jackson Irvine",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "354",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ko Itakura",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Hiroki Ito",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "45",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Junya Ito",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "324",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Yahya Jabrane",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "15",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nicolas Jackson",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "17",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lee Jae-sung",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "211",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alireza Jahanbakhsh",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kristijan Jakić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "1",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ismail Jakobs",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "278",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Abolfazl Jalali",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "19",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daniel James",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "154",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Vincent Janssen",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "86",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ardon Jashari",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "2",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Issam Jebali",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "182",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Artur Jędrzejczyk",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "19",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mathias Jensen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "84",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gabriel Jesus",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "93",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Raúl Jiménez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "59",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kim Jin-su",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "315",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Brennan Johnson",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "91",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alistair Johnston",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Frenkie de Jong",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "475",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Luuk de Jong",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "57",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Luka Jović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "36",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Son Jun-ho",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "72",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Vinicius Júnior",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "299",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Josip Juranović",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "600",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Daichi Kamada",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "322",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jakub Kamiński",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "233",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hossein Kanaanizadegan",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "45",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Harry Kane",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "402",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "3"
+  },
+  {
+   "Name": "Mohamed Kanno",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fran Karačić",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "93",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Karimi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "99",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mark-Anthony Kaye",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wajdi Kechrida",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "111",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thilo Kehrer",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "69",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bilal El Khannouss",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "55",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wahbi Khazri",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "83",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Musab Kheder",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "6",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Boualem Khoukhi",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joshua Kimmich",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jakub Kiwior",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "355",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Simon Kjær",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "64",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Davy Klaassen",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "190",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Lukas Klostermann",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "66",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gregor Kobel",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "90",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Koke",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "52",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Randal Kolo Muani",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "182",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ibrahima Konaté",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "294",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ismaël Koné",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "109",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Teun Koopmeiners",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "219",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Filip Kostić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "179",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kalidou Koulibaly",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jules Koundé",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "480",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cheikhou Kouyaté",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "72",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mateo Kovačić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "635",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andrej Kramarić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "474",
+   "Position": "FW,MF",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Grzegorz Krychowiak",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "332",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Takefusa Kubo",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "90",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pierre Kunde",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "131",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Garang Kuol",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "17",
+   "Minutes_Played": "37",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daniel Kyereh",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "33",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kwon Kyung-won",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "91",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aïssa Laïdouni",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "243",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Tariq Lamptey",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "102",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Noa Lang",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "8",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aymeric Laporte",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "300",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cyle Larin",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "137",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Richie Laryea",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "160",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Darko Lazović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "25",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rafael Leão",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "88",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mathew Leckie",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "333",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Robert Lewandowski",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "360",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "1"
+  },
+  {
+   "Name": "Matthijs de Ligt",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "91",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jesper Lindstrøm",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "200",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marko Livaja",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "241",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Dominik Livaković",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "690",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marcos Llorente",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "120",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hugo Lloris",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "570",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dejan Lovren",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "600",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Hirving Lozano",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "252",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Romelu Lukaku",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "55",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Saša Lukić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "245",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ali Maâloul",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Awer Mabil",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "24",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alexis Mac Allister",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "550",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Jamie Maclaren",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "55",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Assim Madibo",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "153",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdullah Madu",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "45",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Daizen Maeda",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "180",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Harry Maguire",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "429",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Lovro Majer",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "130",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nemanja Maksimović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "122",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdulellah Al-Malki",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "174",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Steve Mandanda",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "37",
+   "Minutes_Played": "90",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "José María Giménez",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "João Mário",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "84",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marquinhos",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "426",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Henry Martín",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "146",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Martinelli",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "113",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Carlos Martínez",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "45",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Emiliano Martínez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "690",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lautaro Martínez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "241",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lisandro Martínez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "303",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pape Matar Sarr",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rónald Matarrita",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "26",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Eric Maxim Choupo-Moting",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "253",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Noussair Mazraoui",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "365",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kylian Mbappé",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "598",
+   "Position": "FW",
+   "Goals": "8",
+   "Assists": "2"
+  },
+  {
+   "Name": "Bryan Mbeumo",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "233",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Riley McGree",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "265",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Weston McKennie",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "271",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hannibal Mejbri",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "11",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Memphis",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "297",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nuno Mendes",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "41",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jhegson Méndez",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "180",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Edouard Mendy",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "360",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nampalys Mendy",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "272",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gideon Mensah",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "87",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Chris Mepham",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yassine Meriah",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dries Mertens",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "76",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lionel Messi",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "690",
+   "Position": "FW",
+   "Goals": "7",
+   "Assists": "3"
+  },
+  {
+   "Name": "Thomas Meunier",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "211",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nikola Milenković",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Arkadiusz Milik",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "101",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sergej Milinković-Savić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "233",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Vanja Milinković-Savić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Éder Militão",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "347",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Liam Millar",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "10",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kamal Miller",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kim Min-jae",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "269",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Takumi Minamino",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "60",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kaoru Mitoma",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "165",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Aleksandar Mitrović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "262",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Stefan Mitrović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "35",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Filip Mladenović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "65",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Luka Modrić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "36",
+   "Minutes_Played": "653",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ismail Mohamad",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "174",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Milad Mohammadi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "196",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kudus Mohammed",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "247",
+   "Position": "FW,MF",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sadegh Moharrami",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nahuel Molina",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "567",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "César Montes",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Gonzalo Montiel",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "118",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kim Moonhwan",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kieffer Moore",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "225",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Shaquell Moore",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "22",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aaron Mooy",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "360",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Álvaro Morata",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "185",
+   "Position": "FW",
+   "Goals": "3",
+   "Assists": "1"
+  },
+  {
+   "Name": "Héctor Moreno",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hidemasa Morita",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "285",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joe Morrell",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "33",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordan Morris",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "4",
+   "Position": "FW,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Youssoufa Moukoko",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "17",
+   "Minutes_Played": "1",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mason Mount",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "186",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Youssef Msakni",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "169",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thomas Müller",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "201",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Munir",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "90",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohammed Muntari",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "63",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yunus Musah",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "343",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jamal Musiala",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "258",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Joakim Mæhle",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "249",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Georges-Kévin N'Koudou",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "27",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yuto Nagatomo",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "209",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sami Al-Najei",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Keylor Navas",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Iliman Ndiaye",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "135",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Victor Nelsson",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Manuel Neuer",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "36",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rúben Neves",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "268",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Neymar",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "279",
+   "Position": "MF",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Moumi Ngamaleu",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "95",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jerome Ngom Mbekeli",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "5",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rasmus Nissen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "224",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nicolas Nkoulou",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Andries Noppert",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "480",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ahmad Nourollahi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "223",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Olivier Ntcham",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "25",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Matheus Nunes",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "73",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Darwin Núñez",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "240",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Christian Nørgaard",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "6",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Guillermo Ochoa",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "36",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Denis Odoi",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "13",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Noah Okafor",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "45",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mathías Olivera",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "253",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dani Olmo",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "367",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Amadou Onana",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "104",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "André Onana",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "80",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gaël Ondoua",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "47",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Loïs Openda",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "13",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mislav Oršić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "162",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Jonathan Osorio",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "119",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nicolás Otamendi",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "690",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Otávio",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "196",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Samuel Oum Gouet",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "100",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Azzedine Ounahi",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "568",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bryan Oviedo",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "260",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohammed Al-Owais",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Juan Pablo Vargas",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Exequiel Palacios",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "50",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "João Palhinha",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "38",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Lucas Paquetá",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "314",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Leandro Paredes",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "225",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thomas Partey",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mario Pašalić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "271",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Benjamin Pavard",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "88",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Strahinja Pavlović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "235",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pedri",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "356",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pedro",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "64",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Facundo Pellistri",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "181",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pepe",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "39",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Danilo Pereira",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ivan Perišić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "669",
+   "Position": "FW,DF",
+   "Goals": "1",
+   "Assists": "3"
+  },
+  {
+   "Name": "Bruno Petković",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "234",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Germán Pezzella",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "60",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kalvin Phillips",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "42",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Krzysztof Piątek",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "28",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordan Pickford",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "450",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Orbelín Pineda",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "76",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gonzalo Plata",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "269",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jackson Porozo",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "96",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Morteza Pouraliganji",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ángelo Preciado",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "264",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Christian Pulisic",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "315",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "2"
+  },
+  {
+   "Name": "Adrien Rabiot",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "483",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Nemanja Radonjić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "60",
+   "Position": "DF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Baba Rahman",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "183",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gonçalo Ramos",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "152",
+   "Position": "FW,MF",
+   "Goals": "3",
+   "Assists": "1"
+  },
+  {
+   "Name": "Aaron Ramsey",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "266",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Raphinha",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "315",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Marcus Rashford",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "140",
+   "Position": "FW",
+   "Goals": "3",
+   "Assists": "0"
+  },
+  {
+   "Name": "David Raum",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "242",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Bassam Al-Rawi",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Tim Ream",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Djorkaeff Reasco",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "27",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gio Reyna",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "53",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ramin Rezaeian",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Everton Ribeiro",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "36",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Declan Rice",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "417",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Richarlison",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "323",
+   "Position": "FW",
+   "Goals": "3",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fabian Rieder",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "68",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ró-Ró",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "262",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Connor Roberts",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "200",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Antonee Robinson",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "359",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sergio Rochet",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Joe Rodon",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rodri",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "390",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Charly Rodríguez",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "34",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Guido Rodríguez",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "56",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kevin Rodríguez",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "2",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ricardo Rodríguez",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "359",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Rodrygo",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "181",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Mohamed Ali Ben Romdhane",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "73",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cristian Romero",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "547",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cristiano Ronaldo",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "37",
+   "Minutes_Played": "290",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marten de Roon",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "184",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kye Rowles",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Antonio Rüdiger",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bryan Ruiz",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "36",
+   "Minutes_Played": "30",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mathew Ryan",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "360",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Youssouf Sabaly",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Abdelhamid Sabiri",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "181",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Romain Saïss",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "466",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bukayo Saka",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "288",
+   "Position": "FW",
+   "Goals": "3",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hiroki Sakai",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "119",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Youstin Salas",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "47",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "William Saliba",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "28",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohammed Salisu",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Tarek Salman",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "8",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alex Sandro",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "190",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Leroy Sané",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "111",
+   "Position": "FW,DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Na Sang-ho",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "119",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pablo Sarabia",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "3",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Josh Sargent",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "157",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jeremy Sarmiento",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "85",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ismaila Sarr",
+   "Country": "Senegal",
+   "Country_url": "https://fbref.com/en/squads/9ab5c684/2022/Senegal-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "344",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ferjani Sassi",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "48",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Fabian Schär",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "135",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nico Schlotterbeck",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "94",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kasper Schmeichel",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Haris Seferović",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "71",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alidu Seidu",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "155",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Antoine Semenyo",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "20",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kim Seung-gyu",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "360",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Paik Seung-ho",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "26",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yasser Al-Shahrani",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "89",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Xherdan Shaqiri",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "229",
+   "Position": "FW,MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Riyadh Sharahili",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "54",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Luke Shaw",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "424",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Saad Al Sheeb",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "90",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Saleh Al-Shehri",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "223",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "André Silva",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "26",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "António Silva",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "18",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bernardo Silva",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "356",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Thiago Silva",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "37",
+   "Minutes_Played": "390",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Unai Simón",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "390",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Xavier Simons",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "9",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ellyes Skhiri",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Michał Skóraś",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andreas Skov Olsen",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "132",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Robert Skov",
+   "Country": "Denmark",
+   "Country_url": "https://fbref.com/en/squads/29a4e4af/2022/Denmark-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "22",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Naïm Sliti",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "114",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Carlos Soler",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "92",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yuki Soma",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "81",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yann Sommer",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "270",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Borna Sosa",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "424",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Harry Souttar",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "360",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Djibril Sow",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "264",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Josip Stanišić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Renato Steffen",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "32",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Raheem Sterling",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "149",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "John Stones",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "434",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Luis Suárez",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "146",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Niklas Süle",
+   "Country": "Germany",
+   "Country_url": "https://fbref.com/en/squads/c1e40422/2022/Germany-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "269",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kamaldeen Sulemana",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "58",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Josip Šutalo",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Karol Świderski",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "45",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wojciech Szczęsny",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "360",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Damian Szymański",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "29",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sebastian Szymański",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "134",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dušan Tadić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "257",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Nicolás Tagliafico",
+   "Country": "Argentina",
+   "Country_url": "https://fbref.com/en/squads/f9fddd6e/2022/Argentina-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "373",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Montassar Talbi",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hassan Al Tambakti",
+   "Country": "Saudi Arabia",
+   "Country_url": "https://fbref.com/en/squads/6e84edac/2022/Saudi-Arabia-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "180",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ao Tanaka",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "171",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Shogo Taniguchi",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "210",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mehdi Taremi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "270",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "1"
+  },
+  {
+   "Name": "Kenneth Taylor",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "5",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Aurélien Tchouaméni",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "621",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Yeltsin Tejeda",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "269",
+   "Position": "MF",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Alex Telles",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "59",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Sorba Thomas",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "1",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Marcus Thuram",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "151",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Youri Tielemans",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "95",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jurriën Timber",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "390",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Karl Toko Ekambi",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "166",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nouhou Tolo",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Takehiro Tomiyasu",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "187",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mehdi Torabi",
+   "Country": "IR Iran",
+   "Country_url": "https://fbref.com/en/squads/6a08f71e/2022/IR-Iran-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "62",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Félix Torres Caicedo",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Ferrán Torres",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "217",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Gerson Torres",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "64",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Pau Torres",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kieran Trippier",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "31",
+   "Minutes_Played": "206",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Leandro Trossard",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "103",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Matt Turner",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "360",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ayase Ueda",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "45",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Hwang Ui-jo",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "106",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dayot Upamecano",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "480",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Enner Valencia",
+   "Country": "Ecuador",
+   "Country_url": "https://fbref.com/en/squads/123acaf8/2022/Ecuador-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "255",
+   "Position": "FW,MF",
+   "Goals": "3",
+   "Assists": "0"
+  },
+  {
+   "Name": "Federico Valverde",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Virgil van Dijk",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "480",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Raphaël Varane",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "518",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Guillermo Varela",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "183",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Ruben Vargas",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "23",
+   "Minutes_Played": "285",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Matías Vecino",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "195",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Alexis Vega",
+   "Country": "Mexico",
+   "Country_url": "https://fbref.com/en/squads/b009a548/2022/Mexico-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "193",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Miloš Veljković",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "221",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Johan Venegas",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "73",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jordan Veretout",
+   "Country": "France",
+   "Country_url": "https://fbref.com/en/squads/b1b36dcd/2022/France-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "62",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jan Vertonghen",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Matías Viña",
+   "Country": "Uruguay",
+   "Country_url": "https://fbref.com/en/squads/870e020f/2022/Uruguay-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "17",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Vitinha",
+   "Country": "Portugal",
+   "Country_url": "https://fbref.com/en/squads/4a1b4ea8/2022/Portugal-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "120",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Steven Vitória",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "35",
+   "Minutes_Played": "270",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Dušan Vlahović",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "79",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nikola Vlašić",
+   "Country": "Croatia",
+   "Country_url": "https://fbref.com/en/squads/7b08e376/2022/Croatia-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "209",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Mohammed Waad",
+   "Country": "Qatar",
+   "Country_url": "https://fbref.com/en/squads/9b696ed1/2022/Qatar-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "28",
+   "Position": "MF,DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kyle Walker",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "236",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Danny Ward",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "94",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Kendall Waston",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "225",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Timothy Weah",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "316",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wout Weghorst",
+   "Country": "Netherlands",
+   "Country_url": "https://fbref.com/en/squads/5bb5024a/2022/Netherlands-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "64",
+   "Position": "FW",
+   "Goals": "2",
+   "Assists": "0"
+  },
+  {
+   "Name": "Wéverton",
+   "Country": "Brazil",
+   "Country_url": "https://fbref.com/en/squads/304635c3/2022/Brazil-Men-Stats",
+   "Age": "34",
+   "Minutes_Played": "11",
+   "Position": "GK",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Silvan Widmer",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "265",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Iñaki Williams",
+   "Country": "Ghana",
+   "Country_url": "https://fbref.com/en/squads/9349828d/2022/Ghana-Men-Stats",
+   "Age": "27",
+   "Minutes_Played": "270",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Neco Williams",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "204",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nico Williams",
+   "Country": "Spain",
+   "Country_url": "https://fbref.com/en/squads/b561dd30/2022/Spain-Men-Stats",
+   "Age": "19",
+   "Minutes_Played": "146",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Callum Wilson",
+   "Country": "England",
+   "Country_url": "https://fbref.com/en/squads/1862c019/2022/England-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "48",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Harry Wilson",
+   "Country": "Wales",
+   "Country_url": "https://fbref.com/en/squads/b1bbcad3/2022/Wales-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "160",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Roan Wilson",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "1",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Axel Witsel",
+   "Country": "Belgium",
+   "Country_url": "https://fbref.com/en/squads/361422b9/2022/Belgium-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "270",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jeong Woo-yeong",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "22",
+   "Minutes_Played": "45",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jung Woo-young",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "303",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Christopher Wooh",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "90",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "David Wotherspoon",
+   "Country": "Canada",
+   "Country_url": "https://fbref.com/en/squads/9c6d90a0/2022/Canada-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "15",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Bailey Wright",
+   "Country": "Australia",
+   "Country_url": "https://fbref.com/en/squads/b90bf4f9/2022/Australia-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "17",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Haji Wright",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "24",
+   "Minutes_Played": "137",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Granit Xhaka",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "360",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Miki Yamane",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "61",
+   "Position": "DF,MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Jawad El Yamiq",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "309",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Taha Yassine Khenissi",
+   "Country": "Tunisia",
+   "Country_url": "https://fbref.com/en/squads/a7c7562a/2022/Tunisia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "29",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "DeAndre Yedlin",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "33",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Maya Yoshida",
+   "Country": "Japan",
+   "Country_url": "https://fbref.com/en/squads/ffcf1690/2022/Japan-Men-Stats",
+   "Age": "33",
+   "Minutes_Played": "390",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Kim Young-gwon",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "32",
+   "Minutes_Played": "350",
+   "Position": "DF",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Cho Yumin",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "1",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Denis Zakaria",
+   "Country": "Switzerland",
+   "Country_url": "https://fbref.com/en/squads/81021a70/2022/Switzerland-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "59",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Nicola Zalewski",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "65",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andre-Frank Zambo Anguissa",
+   "Country": "Cameroon",
+   "Country_url": "https://fbref.com/en/squads/896550da/2022/Cameroon-Men-Stats",
+   "Age": "26",
+   "Minutes_Played": "260",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "1"
+  },
+  {
+   "Name": "Álvaro Zamora",
+   "Country": "Costa Rica",
+   "Country_url": "https://fbref.com/en/squads/1ea5ab66/2022/Costa-Rica-Men-Stats",
+   "Age": "20",
+   "Minutes_Played": "30",
+   "Position": "MF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Anass Zaroury",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "27",
+   "Position": "FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Piotr Zieliński",
+   "Country": "Poland",
+   "Country_url": "https://fbref.com/en/squads/8912dcf0/2022/Poland-Men-Stats",
+   "Age": "28",
+   "Minutes_Played": "328",
+   "Position": "MF,FW",
+   "Goals": "1",
+   "Assists": "0"
+  },
+  {
+   "Name": "Walker Zimmerman",
+   "Country": "United States",
+   "Country_url": "https://fbref.com/en/squads/0f66725b/2022/United-States-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "279",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "Andrija Živković",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "25",
+   "Minutes_Played": "210",
+   "Position": "DF",
+   "Goals": "0",
+   "Assists": "2"
+  },
+  {
+   "Name": "Hakim Ziyech",
+   "Country": "Morocco",
+   "Country_url": "https://fbref.com/en/squads/af41ccda/2022/Morocco-Men-Stats",
+   "Age": "29",
+   "Minutes_Played": "635",
+   "Position": "FW",
+   "Goals": "1",
+   "Assists": "1"
+  },
+  {
+   "Name": "Filip Đuričić",
+   "Country": "Serbia",
+   "Country_url": "https://fbref.com/en/squads/1d6f5c9b/2022/Serbia-Men-Stats",
+   "Age": "30",
+   "Minutes_Played": "14",
+   "Position": "MF,FW",
+   "Goals": "0",
+   "Assists": "0"
+  },
+  {
+   "Name": "이강인",
+   "Country": "Korea Republic",
+   "Country_url": "https://fbref.com/en/squads/473f0fbf/2022/Korea-Republic-Men-Stats",
+   "Age": "21",
+   "Minutes_Played": "147",
+   "Position": "FW,MF",
+   "Goals": "0",
+   "Assists": "1"
+  }
+ ]
+}]

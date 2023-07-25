@@ -1,0 +1,4746 @@
+[{
+ "Player": [
+  {
+   "Name": "Brenden Aaronson",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Ali Abdi",
+   "Tackles": "8",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Salis Abdul Samed",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Saud Abdulhamid",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Nawaf Al Abed",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Pape Abou Cissé",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Vincent Aboubakar",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Abdulrahman Al-Aboud",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Zakaria Aboukhlal",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Kellyn Acosta",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marcos Acuña",
+   "Tackles": "12",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "7"
+  },
+  {
+   "Name": "Tyler Adams",
+   "Tackles": "11",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Sam Adekugbe",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Michel Aebischer",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Akram Afif",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nayef Aguerd",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Brandon Aguilera",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Homam Ahmed",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Manuel Akanji",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nathan Aké",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ahmed Alaaeldin",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jordi Alba",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Toby Alderweireld",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Trent Alexander-Arnold",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Almoez Ali",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alisson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Joe Allen",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Thiago Almada",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Roberto Alvarado",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Edson Álvarez",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Julián Álvarez",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "8"
+  },
+  {
+   "Name": "Kevin Álvarez",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Dani Alves",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Selim Amallah",
+   "Tackles": "13",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Daniel Amartey",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ethan Ampadu",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Sofyan Amrabat",
+   "Tackles": "16",
+   "Tackles_Won": "10",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Abdulelah Al-Amri",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Joachim Andersen",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Karim Ansarifard",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Antony",
+   "Tackles_Won": "0"
+  },
+  {
+   "Name": "Uriel Antuna",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Néstor Araujo",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Takuma Asano",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marco Asensio",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ali Assadalla",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Lawrence Ati-Zigi",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nathaniel Atkinson",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yahya Attiat Allah",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "André Ayew",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jordan Ayew",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Sardar Azmoun",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "César Azpilicueta",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Srđan Babić",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Keanu Baccus",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Alexander Bah",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Hattan Bahebri",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alejandro Balde",
+   "Tackles": "6",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Gareth Bale",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Fodé Ballo-Touré",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Badr Banoun",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Borna Barišić",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Meshaal Barsham",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Christian Bassogog",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Michy Batshuayi",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jan Bednarek",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aziz Behich",
+   "Tackles": "8",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Alireza Beiranvand",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jude Bellingham",
+   "Tackles": "16",
+   "Tackles_Won": "15",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "10"
+  },
+  {
+   "Name": "Anis Ben Slimane",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jewison Bennette",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Rodrigo Bentancur",
+   "Tackles": "9",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Bartosz Bereszyński",
+   "Tackles": "6",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Steven Berghuis",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Steven Bergwijn",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Krystian Bielik",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Daley Blind",
+   "Tackles": "14",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Celso Borges",
+   "Tackles": "5",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Milan Borjan",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Karim Boudiaf",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Sofiane Boufal",
+   "Tackles": "11",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "9"
+  },
+  {
+   "Name": "Yassine Bounou",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Martin Braithwaite",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mohammed Al-Breik",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Gleison Bremer",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Dylan Bronn",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Marcelo Brozović",
+   "Tackles": "13",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "7",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Tajon Buchanan",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Ante Budimir",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Osman Bukari",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ali Al-Bulaihi",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Firas Al-Buraikan",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Sergio Busquets",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Martín Cáceres",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Moisés Caicedo",
+   "Tackles": "6",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Francisco Calvo",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Eduardo Camavinga",
+   "Tackles": "14",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Joel Campbell",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "João Cancelo",
+   "Tackles": "7",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Agustín Canobbio",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Yannick Carrasco",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Cameron Carter-Vickers",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Dani Carvajal",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "William Carvalho",
+   "Tackles": "6",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Casemiro",
+   "Tackles": "11",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "11"
+  },
+  {
+   "Name": "Matty Cash",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Timothy Castagne",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jean-Charles Castelletto",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Lucas Cavallini",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Edinson Cavani",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ghaylène Chaalali",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Daniel Chacón",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ilias Chair",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kwon Chang-hoon",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Luis Chávez",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Walid Cheddira",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Roozbeh Cheshmi",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Andreas Christensen",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "5",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Hong Chul",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "José Cifuentes",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Pathé Ciss",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Sebastián Coates",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Rubin Colwill",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kingsley Coman",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Eray Cömert",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Anthony Contreras",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Andreas Cornelius",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ángel Correa",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Diogo Costa",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Thibaut Courtois",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jason Cummings",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aymen Dahmen",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Diogo Dalot",
+   "Tackles": "8",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Mikkel Damsgaard",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Danilo",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Achraf Dari",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jonathan David",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alphonso Davies",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Ben Davies",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Nasser Al-Dawsari",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Salem Al-Dawsari",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Giorgian De Arrascaeta",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kevin De Bruyne",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Charles De Ketelaere",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nicolás De La Cruz",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rodrigo De Paul",
+   "Tackles": "11",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "8"
+  },
+  {
+   "Name": "Miloš Degenek",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Thomas Delaney",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ousmane Dembélé",
+   "Tackles": "11",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Leander Dendoncker",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Sergiño Dest",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Ángel Di María",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Boulaye Dia",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Abdou Diallo",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rúben Dias",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Krépin Diatta",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Famara Diedhiou",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Bamba Dieng",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Eric Dier",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Axel Disasi",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alexander Djiku",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ritsu Doan",
+   "Tackles": "6",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jeremy Doku",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kasper Dolberg",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mohamed Dräger",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Óscar Duarte",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Mitchell Duke",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Denzel Dumfries",
+   "Tackles": "8",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Paulo Dybala",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Enzo Ebosse",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ederson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jorge Eduardo Sánchez",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Nico Elvedi",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Breel Embolo",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Youssef En-Nesyri",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Wataru Endo",
+   "Tackles": "8",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Devis Epassy",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Christian Eriksen",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Michael Estrada",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Pervis Estupiñán",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Stephen Eustáquio",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Saeid Ezatolahi",
+   "Tackles": "6",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Abdessamad Ezzalzouli",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Fabinho",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Collins Fai",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Salman Al-Faraj",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Christian Fassnacht",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Abdul Fatawu Issahaku",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ansu Fati",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "João Félix",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Bruno Fernandes",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Edimilson Fernandes",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Enzo Fernández",
+   "Tackles": "22",
+   "Tackles_Won": "15",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Jesús Ferreira",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Phil Foden",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Youssouf Fofana",
+   "Tackles": "8",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Juan Foyth",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alan Franco",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Przemysław Frankowski",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Fred",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Fabian Frei",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Remo Freuler",
+   "Tackles": "8",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Keysher Fuller",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Niclas Füllkrug",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rogelio Funes Mori",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Cody Gakpo",
+   "Tackles": "8",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "9"
+  },
+  {
+   "Name": "Hernán Galíndez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jesús Gallardo",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Idrissa Gana Gueye",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Gavi",
+   "Tackles": "8",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Sultan Al-Ghanam",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Nader Ghandri",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Saman Ghoddos",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ali Gholizadeh",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Matthias Ginter",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Olivier Giroud",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kamil Glik",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Serge Gnabry",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Diego Godín",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Maxi Gómez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Papu Gómez",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Shūichi Gonda",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Craig Goodwin",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Leon Goretzka",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mario Götze",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jack Grealish",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Antoine Griezmann",
+   "Tackles": "14",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Kamil Grosicki",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Carlos Gruezo",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marko Grujić",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Andrés Guardado",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nemanja Gudelj",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Mattéo Guendouzi",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Raphaël Guerreiro",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Cho Guesung",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Pape Gueye",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Bruno Guimarães",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "İlkay Gündoğan",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Erick Gutiérrez",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Joško Gvardiol",
+   "Tackles": "9",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Asiri Haitham",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ehsan Hajsafi",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Achraf Hakimi",
+   "Tackles": "26",
+   "Tackles_Won": "17",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Abderrazak Hamdallah",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Abdelkarim Hassan",
+   "Tackles": "7",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ali Al Hassan",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Abdulaziz Hatem",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kai Havertz",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Hassan Al-Haydos",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Eden Hazard",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Thorgan Hazard",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Hwang Hee-chan",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jordan Henderson",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Wayne Hennessey",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Lucas Hernández",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Theo Hernández",
+   "Tackles": "16",
+   "Tackles_Won": "13",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Héctor Herrera",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Son Heung-min",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Piero Hincapié",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jonas Hofmann",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Junior Hoilett",
+   "Tackles": "8",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Martin Hongla",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ricardo Horta",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Hossein Hosseini",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Majid Hosseini",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ajdin Hrustic",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Atiba Hutchinson",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Pierre Højbjerg",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Romario Ibarra",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ivan Ilić",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Hwang In-beom",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jackson Irvine",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "7"
+  },
+  {
+   "Name": "Ko Itakura",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Hiroki Ito",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Junya Ito",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Yahya Jabrane",
+   "Tackles_Won": "0"
+  },
+  {
+   "Name": "Nicolas Jackson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Lee Jae-sung",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Alireza Jahanbakhsh",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Kristijan Jakić",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ismail Jakobs",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Abolfazl Jalali",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Daniel James",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Vincent Janssen",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ardon Jashari",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Issam Jebali",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Artur Jędrzejczyk",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mathias Jensen",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Gabriel Jesus",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Raúl Jiménez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kim Jin-su",
+   "Tackles": "10",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Brennan Johnson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Alistair Johnston",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Frenkie de Jong",
+   "Tackles": "12",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Luuk de Jong",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Luka Jović",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Son Jun-ho",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Vinicius Júnior",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Josip Juranović",
+   "Tackles": "12",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Daichi Kamada",
+   "Tackles": "7",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jakub Kamiński",
+   "Tackles": "6",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Hossein Kanaanizadegan",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Harry Kane",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mohamed Kanno",
+   "Tackles": "6",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Fran Karačić",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ali Karimi",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mark-Anthony Kaye",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Wajdi Kechrida",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Thilo Kehrer",
+   "Tackles": "6",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Bilal El Khannouss",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Wahbi Khazri",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Musab Kheder",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Boualem Khoukhi",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Joshua Kimmich",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Jakub Kiwior",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Simon Kjær",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Davy Klaassen",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Lukas Klostermann",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Gregor Kobel",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Koke",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Randal Kolo Muani",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ibrahima Konaté",
+   "Tackles": "15",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Ismaël Koné",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Teun Koopmeiners",
+   "Tackles": "10",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Filip Kostić",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Kalidou Koulibaly",
+   "Tackles": "12",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jules Koundé",
+   "Tackles": "11",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Cheikhou Kouyaté",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mateo Kovačić",
+   "Tackles": "24",
+   "Tackles_Won": "17",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Andrej Kramarić",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Grzegorz Krychowiak",
+   "Tackles": "9",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Takefusa Kubo",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Pierre Kunde",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Garang Kuol",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Daniel Kyereh",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kwon Kyung-won",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aïssa Laïdouni",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Tariq Lamptey",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Noa Lang",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aymeric Laporte",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Cyle Larin",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Richie Laryea",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Darko Lazović",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rafael Leão",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mathew Leckie",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Robert Lewandowski",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Matthijs de Ligt",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jesper Lindstrøm",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Marko Livaja",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Dominik Livaković",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marcos Llorente",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Hugo Lloris",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Dejan Lovren",
+   "Tackles": "7",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "5",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Hirving Lozano",
+   "Tackles": "7",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Romelu Lukaku",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Saša Lukić",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ali Maâloul",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Awer Mabil",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Alexis Mac Allister",
+   "Tackles": "9",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "12"
+  },
+  {
+   "Name": "Jamie Maclaren",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Assim Madibo",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Abdullah Madu",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Daizen Maeda",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Harry Maguire",
+   "Tackles": "7",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Lovro Majer",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nemanja Maksimović",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Abdulellah Al-Malki",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Steve Mandanda",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "José María Giménez",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "5",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "João Mário",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Marquinhos",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Henry Martín",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Martinelli",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Carlos Martínez",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Emiliano Martínez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Lautaro Martínez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Lisandro Martínez",
+   "Tackles": "6",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Pape Matar Sarr",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Rónald Matarrita",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Eric Maxim Choupo-Moting",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Noussair Mazraoui",
+   "Tackles": "14",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Kylian Mbappé",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Bryan Mbeumo",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Riley McGree",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Weston McKennie",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Hannibal Mejbri",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Memphis",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Nuno Mendes",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jhegson Méndez",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Edouard Mendy",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nampalys Mendy",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Gideon Mensah",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Chris Mepham",
+   "Tackles": "8",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Yassine Meriah",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Dries Mertens",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Lionel Messi",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Thomas Meunier",
+   "Tackles": "6",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nikola Milenković",
+   "Tackles": "10",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Arkadiusz Milik",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Sergej Milinković-Savić",
+   "Tackles": "5",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Vanja Milinković-Savić",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Éder Militão",
+   "Tackles": "7",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Liam Millar",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kamal Miller",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kim Min-jae",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Takumi Minamino",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kaoru Mitoma",
+   "Tackles": "7",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Aleksandar Mitrović",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Stefan Mitrović",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Filip Mladenović",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Luka Modrić",
+   "Tackles": "16",
+   "Tackles_Won": "10",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ismail Mohamad",
+   "Tackles_Won": "2"
+  },
+  {
+   "Name": "Milad Mohammadi",
+   "Tackles": "10",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Kudus Mohammed",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Sadegh Moharrami",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nahuel Molina",
+   "Tackles": "8",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "César Montes",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Gonzalo Montiel",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kim Moonhwan",
+   "Tackles": "9",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Kieffer Moore",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Shaquell Moore",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aaron Mooy",
+   "Tackles": "9",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Álvaro Morata",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Héctor Moreno",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Hidemasa Morita",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "7"
+  },
+  {
+   "Name": "Joe Morrell",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jordan Morris",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Youssoufa Moukoko",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mason Mount",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Youssef Msakni",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Thomas Müller",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Munir",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mohammed Muntari",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yunus Musah",
+   "Tackles": "8",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "7"
+  },
+  {
+   "Name": "Jamal Musiala",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Joakim Mæhle",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Georges-Kévin N'Koudou",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yuto Nagatomo",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Sami Al-Najei",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Keylor Navas",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Iliman Ndiaye",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Victor Nelsson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Manuel Neuer",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rúben Neves",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Neymar",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Moumi Ngamaleu",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jerome Ngom Mbekeli",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rasmus Nissen",
+   "Tackles": "8",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Nicolas Nkoulou",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Andries Noppert",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ahmad Nourollahi",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Olivier Ntcham",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Matheus Nunes",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Darwin Núñez",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Christian Nørgaard",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Guillermo Ochoa",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Denis Odoi",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Noah Okafor",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mathías Olivera",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "9"
+  },
+  {
+   "Name": "Dani Olmo",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Amadou Onana",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "André Onana",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Gaël Ondoua",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Loïs Openda",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mislav Oršić",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jonathan Osorio",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nicolás Otamendi",
+   "Tackles": "10",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Otávio",
+   "Tackles": "7",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Samuel Oum Gouet",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Azzedine Ounahi",
+   "Tackles": "9",
+   "Tackles_Won": "8",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Bryan Oviedo",
+   "Tackles": "6",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Mohammed Al-Owais",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Juan Pablo Vargas",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Exequiel Palacios",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "João Palhinha",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Lucas Paquetá",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Leandro Paredes",
+   "Tackles": "10",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Thomas Partey",
+   "Tackles": "9",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Mario Pašalić",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Benjamin Pavard",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Strahinja Pavlović",
+   "Tackles": "7",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Pedri",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Pedro",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Facundo Pellistri",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Pepe",
+   "Tackles": "5",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Danilo Pereira",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ivan Perišić",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "8"
+  },
+  {
+   "Name": "Bruno Petković",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Germán Pezzella",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kalvin Phillips",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Krzysztof Piątek",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jordan Pickford",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Orbelín Pineda",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Gonzalo Plata",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jackson Porozo",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Morteza Pouraliganji",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ángelo Preciado",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Christian Pulisic",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Adrien Rabiot",
+   "Tackles": "12",
+   "Tackles_Won": "9",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "10"
+  },
+  {
+   "Name": "Nemanja Radonjić",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Baba Rahman",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Gonçalo Ramos",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aaron Ramsey",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Raphinha",
+   "Tackles": "8",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Marcus Rashford",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "David Raum",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "9"
+  },
+  {
+   "Name": "Bassam Al-Rawi",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Tim Ream",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Djorkaeff Reasco",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Gio Reyna",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ramin Rezaeian",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Everton Ribeiro",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Declan Rice",
+   "Tackles": "6",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Richarlison",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Fabian Rieder",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ró-Ró",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Connor Roberts",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Antonee Robinson",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Sergio Rochet",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Joe Rodon",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Rodri",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Charly Rodríguez",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Guido Rodríguez",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kevin Rodríguez",
+   "Tackles_Won": "0"
+  },
+  {
+   "Name": "Ricardo Rodríguez",
+   "Tackles": "7",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Rodrygo",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Mohamed Ali Ben Romdhane",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Cristian Romero",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Cristiano Ronaldo",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marten de Roon",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Kye Rowles",
+   "Tackles": "8",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "7",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Antonio Rüdiger",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Bryan Ruiz",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mathew Ryan",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Youssouf Sabaly",
+   "Tackles": "6",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Abdelhamid Sabiri",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Romain Saïss",
+   "Tackles": "5",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Bukayo Saka",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Hiroki Sakai",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Youstin Salas",
+   "Tackles": "5",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "William Saliba",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Mohammed Salisu",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Tarek Salman",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alex Sandro",
+   "Tackles": "8",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Leroy Sané",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Na Sang-ho",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Pablo Sarabia",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Josh Sargent",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Jeremy Sarmiento",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ismaila Sarr",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Ferjani Sassi",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Fabian Schär",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nico Schlotterbeck",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kasper Schmeichel",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Haris Seferović",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Alidu Seidu",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Antoine Semenyo",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kim Seung-gyu",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Paik Seung-ho",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yasser Al-Shahrani",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Xherdan Shaqiri",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Riyadh Sharahili",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Luke Shaw",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Saad Al Sheeb",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Saleh Al-Shehri",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "André Silva",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "António Silva",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Bernardo Silva",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Thiago Silva",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Unai Simón",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Xavier Simons",
+   "Tackles_Won": "0"
+  },
+  {
+   "Name": "Ellyes Skhiri",
+   "Tackles": "10",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Michał Skóraś",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Andreas Skov Olsen",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Robert Skov",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Naïm Sliti",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Carlos Soler",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yuki Soma",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Yann Sommer",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Borna Sosa",
+   "Tackles": "14",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Harry Souttar",
+   "Tackles": "4",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Djibril Sow",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Josip Stanišić",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Renato Steffen",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Raheem Sterling",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "John Stones",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Luis Suárez",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Niklas Süle",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kamaldeen Sulemana",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Josip Šutalo",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Karol Świderski",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Wojciech Szczęsny",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Damian Szymański",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Sebastian Szymański",
+   "Tackles": "6",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Dušan Tadić",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Nicolás Tagliafico",
+   "Tackles": "7",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "8"
+  },
+  {
+   "Name": "Montassar Talbi",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Hassan Al Tambakti",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ao Tanaka",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Shogo Taniguchi",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mehdi Taremi",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Kenneth Taylor",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Aurélien Tchouaméni",
+   "Tackles": "11",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Yeltsin Tejeda",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "5",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Alex Telles",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Sorba Thomas",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Marcus Thuram",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Youri Tielemans",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Jurriën Timber",
+   "Tackles": "12",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Karl Toko Ekambi",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nouhou Tolo",
+   "Tackles": "8",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Takehiro Tomiyasu",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Mehdi Torabi",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Félix Torres Caicedo",
+   "Tackles": "2",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ferrán Torres",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Gerson Torres",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Pau Torres",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kieran Trippier",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Leandro Trossard",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Matt Turner",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Ayase Ueda",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Hwang Ui-jo",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Dayot Upamecano",
+   "Tackles": "11",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "4",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Enner Valencia",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Federico Valverde",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "6"
+  },
+  {
+   "Name": "Virgil van Dijk",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "7",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Raphaël Varane",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Guillermo Varela",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Ruben Vargas",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Matías Vecino",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Alexis Vega",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Miloš Veljković",
+   "Tackles": "4",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Johan Venegas",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jordan Veretout",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jan Vertonghen",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Matías Viña",
+   "Tackles": "4",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Vitinha",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Steven Vitória",
+   "Tackles": "3",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Dušan Vlahović",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Nikola Vlašić",
+   "Tackles": "1",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Mohammed Waad",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Kyle Walker",
+   "Tackles": "3",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Danny Ward",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Kendall Waston",
+   "Tackles": "7",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Timothy Weah",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Wout Weghorst",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Wéverton",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Silvan Widmer",
+   "Tackles": "10",
+   "Tackles_Won": "6",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Iñaki Williams",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Neco Williams",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Nico Williams",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Callum Wilson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Harry Wilson",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Roan Wilson",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Axel Witsel",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "4"
+  },
+  {
+   "Name": "Jeong Woo-yeong",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Jung Woo-young",
+   "Tackles": "5",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "1",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Christopher Wooh",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "David Wotherspoon",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Bailey Wright",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Haji Wright",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Granit Xhaka",
+   "Tackles": "6",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Miki Yamane",
+   "Tackles": "1",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Jawad El Yamiq",
+   "Tackles": "4",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "6",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Taha Yassine Khenissi",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "DeAndre Yedlin",
+   "Tackles": "2",
+   "Tackles_Won": "1",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Maya Yoshida",
+   "Tackles": "4",
+   "Tackles_Won": "4",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "3"
+  },
+  {
+   "Name": "Kim Young-gwon",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "2",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Cho Yumin",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Denis Zakaria",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Nicola Zalewski",
+   "Tackles": "4",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Andre-Frank Zambo Anguissa",
+   "Tackles": "4",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Álvaro Zamora",
+   "Tackles": "2",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "Anass Zaroury",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "2"
+  },
+  {
+   "Name": "Piotr Zieliński",
+   "Tackles": "7",
+   "Tackles_Won": "5",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Walker Zimmerman",
+   "Tackles": "3",
+   "Tackles_Won": "2",
+   "Shots_Blocked": "3",
+   "Passes_Blocked": "1"
+  },
+  {
+   "Name": "Andrija Živković",
+   "Tackles": "5",
+   "Tackles_Won": "3",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "5"
+  },
+  {
+   "Name": "Hakim Ziyech",
+   "Tackles": "10",
+   "Tackles_Won": "7",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "10"
+  },
+  {
+   "Name": "Filip Đuričić",
+   "Tackles": "0",
+   "Tackles_Won": "0",
+   "Shots_Blocked": "0",
+   "Passes_Blocked": "0"
+  },
+  {
+   "Name": "이강인",
+   "Tackles_Won": "3"
+  }
+ ]
+}]

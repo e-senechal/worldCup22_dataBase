@@ -1,0 +1,4072 @@
+[{
+ "Player": [
+  {
+   "Name": "Brenden Aaronson",
+   "Clearances": "0",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ali Abdi",
+   "Clearances": "13",
+   "Blocks": "1",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Salis Abdul Samed",
+   "Clearances": "8",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Saud Abdulhamid",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Nawaf Al Abed",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Pape Abou Cissé",
+   "Clearances": "6",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Vincent Aboubakar",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Abdulrahman Al-Aboud",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Zakaria Aboukhlal",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kellyn Acosta",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marcos Acuña",
+   "Clearances": "9",
+   "Blocks": "8",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Tyler Adams",
+   "Clearances": "6",
+   "Blocks": "6",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Sam Adekugbe",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Michel Aebischer",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Akram Afif",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nayef Aguerd",
+   "Clearances": "12",
+   "Blocks": "3",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Brandon Aguilera",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Homam Ahmed",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Manuel Akanji",
+   "Clearances": "12",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Nathan Aké",
+   "Clearances": "20",
+   "Blocks": "3",
+   "Interceptions": "8"
+  },
+  {
+   "Name": "Ahmed Alaaeldin",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jordi Alba",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Toby Alderweireld",
+   "Clearances": "19",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Trent Alexander-Arnold",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Almoez Ali",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Alisson",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Joe Allen",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Thiago Almada",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Roberto Alvarado",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Edson Álvarez",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Julián Álvarez",
+   "Clearances": "3",
+   "Blocks": "8",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kevin Álvarez",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Dani Alves",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Selim Amallah",
+   "Clearances": "3",
+   "Blocks": "6",
+   "Interceptions": "8"
+  },
+  {
+   "Name": "Daniel Amartey",
+   "Clearances": "12",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ethan Ampadu",
+   "Clearances": "10",
+   "Blocks": "9",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Sofyan Amrabat",
+   "Clearances": "10",
+   "Blocks": "2",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Abdulelah Al-Amri",
+   "Clearances": "10",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Joachim Andersen",
+   "Clearances": "12",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Karim Ansarifard",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Antony",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Uriel Antuna",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Néstor Araujo",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Takuma Asano",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Marco Asensio",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ali Assadalla",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Lawrence Ati-Zigi",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nathaniel Atkinson",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Yahya Attiat Allah",
+   "Clearances": "15",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "André Ayew",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jordan Ayew",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Sardar Azmoun",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "César Azpilicueta",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Srđan Babić",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Keanu Baccus",
+   "Clearances": "1",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Alexander Bah",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Hattan Bahebri",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Alejandro Balde",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gareth Bale",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Fodé Ballo-Touré",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Badr Banoun",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Borna Barišić",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Meshaal Barsham",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Christian Bassogog",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Michy Batshuayi",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jan Bednarek",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Aziz Behich",
+   "Clearances": "12",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Alireza Beiranvand",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jude Bellingham",
+   "Clearances": "0",
+   "Blocks": "10",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Anis Ben Slimane",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Jewison Bennette",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rodrigo Bentancur",
+   "Clearances": "5",
+   "Blocks": "3",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Bartosz Bereszyński",
+   "Clearances": "17",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Steven Berghuis",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Steven Bergwijn",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Krystian Bielik",
+   "Clearances": "6",
+   "Blocks": "1",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Daley Blind",
+   "Clearances": "4",
+   "Blocks": "6",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Celso Borges",
+   "Clearances": "7",
+   "Blocks": "8",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Milan Borjan",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Karim Boudiaf",
+   "Clearances": "3",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Sofiane Boufal",
+   "Clearances": "1",
+   "Blocks": "9",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Yassine Bounou",
+   "Clearances": "5",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Martin Braithwaite",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mohammed Al-Breik",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Gleison Bremer",
+   "Clearances": "6",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Dylan Bronn",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marcelo Brozović",
+   "Clearances": "7",
+   "Blocks": "13",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Tajon Buchanan",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ante Budimir",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Osman Bukari",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ali Al-Bulaihi",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Firas Al-Buraikan",
+   "Clearances": "4",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Sergio Busquets",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Martín Cáceres",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Moisés Caicedo",
+   "Clearances": "2",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Francisco Calvo",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Eduardo Camavinga",
+   "Clearances": "6",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Joel Campbell",
+   "Clearances": "4",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "João Cancelo",
+   "Clearances": "8",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Agustín Canobbio",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yannick Carrasco",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Cameron Carter-Vickers",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Dani Carvajal",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "William Carvalho",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Casemiro",
+   "Clearances": "5",
+   "Blocks": "13",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Matty Cash",
+   "Clearances": "17",
+   "Blocks": "7",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Timothy Castagne",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jean-Charles Castelletto",
+   "Clearances": "12",
+   "Blocks": "2",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Lucas Cavallini",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Edinson Cavani",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ghaylène Chaalali",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Daniel Chacón",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ilias Chair",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kwon Chang-hoon",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Luis Chávez",
+   "Clearances": "3",
+   "Blocks": "6",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Walid Cheddira",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Roozbeh Cheshmi",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Andreas Christensen",
+   "Clearances": "9",
+   "Blocks": "7",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Hong Chul",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "José Cifuentes",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pathé Ciss",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Sebastián Coates",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Rubin Colwill",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kingsley Coman",
+   "Clearances": "1",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Eray Cömert",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Anthony Contreras",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Andreas Cornelius",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ángel Correa",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Diogo Costa",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Thibaut Courtois",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jason Cummings",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Aymen Dahmen",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Diogo Dalot",
+   "Clearances": "1",
+   "Blocks": "7",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Mikkel Damsgaard",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Danilo",
+   "Clearances": "5",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Achraf Dari",
+   "Clearances": "9",
+   "Blocks": "7",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Jonathan David",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Alphonso Davies",
+   "Clearances": "1",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ben Davies",
+   "Clearances": "8",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nasser Al-Dawsari",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Salem Al-Dawsari",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Giorgian De Arrascaeta",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Kevin De Bruyne",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Charles De Ketelaere",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nicolás De La Cruz",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rodrigo De Paul",
+   "Clearances": "3",
+   "Blocks": "8",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Miloš Degenek",
+   "Clearances": "9",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Thomas Delaney",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ousmane Dembélé",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Leander Dendoncker",
+   "Clearances": "5",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Sergiño Dest",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Ángel Di María",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Boulaye Dia",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Abdou Diallo",
+   "Clearances": "10",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Rúben Dias",
+   "Clearances": "9",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Krépin Diatta",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Famara Diedhiou",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Bamba Dieng",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Eric Dier",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Axel Disasi",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Alexander Djiku",
+   "Clearances": "9",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Ritsu Doan",
+   "Clearances": "2",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Jeremy Doku",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kasper Dolberg",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mohamed Dräger",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Óscar Duarte",
+   "Clearances": "15",
+   "Blocks": "3",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Mitchell Duke",
+   "Clearances": "1",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Denzel Dumfries",
+   "Clearances": "6",
+   "Blocks": "5",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Paulo Dybala",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Enzo Ebosse",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ederson",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jorge Eduardo Sánchez",
+   "Clearances": "8",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Nico Elvedi",
+   "Clearances": "13",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Breel Embolo",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Youssef En-Nesyri",
+   "Clearances": "11",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Wataru Endo",
+   "Clearances": "6",
+   "Blocks": "8",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Devis Epassy",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Christian Eriksen",
+   "Clearances": "1",
+   "Blocks": "5",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Michael Estrada",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pervis Estupiñán",
+   "Clearances": "6",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Stephen Eustáquio",
+   "Clearances": "6",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Saeid Ezatolahi",
+   "Clearances": "4",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Abdessamad Ezzalzouli",
+   "Clearances": "3",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Fabinho",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Collins Fai",
+   "Clearances": "7",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Salman Al-Faraj",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Christian Fassnacht",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Abdul Fatawu Issahaku",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ansu Fati",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "João Félix",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Bruno Fernandes",
+   "Clearances": "4",
+   "Blocks": "7",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Edimilson Fernandes",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Enzo Fernández",
+   "Clearances": "7",
+   "Blocks": "7",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Jesús Ferreira",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Phil Foden",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Youssouf Fofana",
+   "Clearances": "0",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Juan Foyth",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Alan Franco",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Przemysław Frankowski",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Fred",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Fabian Frei",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Remo Freuler",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Keysher Fuller",
+   "Clearances": "9",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Niclas Füllkrug",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rogelio Funes Mori",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Cody Gakpo",
+   "Clearances": "6",
+   "Blocks": "10",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Hernán Galíndez",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jesús Gallardo",
+   "Clearances": "10",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Idrissa Gana Gueye",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Gavi",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Sultan Al-Ghanam",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Nader Ghandri",
+   "Clearances": "4",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Saman Ghoddos",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ali Gholizadeh",
+   "Clearances": "2",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Matthias Ginter",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Olivier Giroud",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kamil Glik",
+   "Clearances": "23",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Serge Gnabry",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Diego Godín",
+   "Clearances": "9",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Maxi Gómez",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Papu Gómez",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Shūichi Gonda",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Craig Goodwin",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Leon Goretzka",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Mario Götze",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jack Grealish",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Antoine Griezmann",
+   "Clearances": "7",
+   "Blocks": "8",
+   "Interceptions": "8"
+  },
+  {
+   "Name": "Kamil Grosicki",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Carlos Gruezo",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marko Grujić",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Andrés Guardado",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nemanja Gudelj",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Mattéo Guendouzi",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Raphaël Guerreiro",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Cho Guesung",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pape Gueye",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Bruno Guimarães",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "İlkay Gündoğan",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Erick Gutiérrez",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Joško Gvardiol",
+   "Clearances": "37",
+   "Blocks": "8",
+   "Interceptions": "11"
+  },
+  {
+   "Name": "Asiri Haitham",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ehsan Hajsafi",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Achraf Hakimi",
+   "Clearances": "12",
+   "Blocks": "7",
+   "Interceptions": "9"
+  },
+  {
+   "Name": "Abderrazak Hamdallah",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Abdelkarim Hassan",
+   "Clearances": "5",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ali Al Hassan",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Abdulaziz Hatem",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kai Havertz",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Hassan Al-Haydos",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Eden Hazard",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Thorgan Hazard",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Hwang Hee-chan",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jordan Henderson",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Wayne Hennessey",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Lucas Hernández",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Theo Hernández",
+   "Clearances": "8",
+   "Blocks": "5",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Héctor Herrera",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Son Heung-min",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Piero Hincapié",
+   "Clearances": "9",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jonas Hofmann",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Junior Hoilett",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Martin Hongla",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Ricardo Horta",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Hossein Hosseini",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Majid Hosseini",
+   "Clearances": "11",
+   "Blocks": "3",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Ajdin Hrustic",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Atiba Hutchinson",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Pierre Højbjerg",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Romario Ibarra",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ivan Ilić",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Hwang In-beom",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Jackson Irvine",
+   "Clearances": "8",
+   "Blocks": "7",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ko Itakura",
+   "Clearances": "16",
+   "Blocks": "1",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Hiroki Ito",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Junya Ito",
+   "Clearances": "6",
+   "Blocks": "4",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Yahya Jabrane",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nicolas Jackson",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Lee Jae-sung",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Alireza Jahanbakhsh",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kristijan Jakić",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ismail Jakobs",
+   "Clearances": "14",
+   "Blocks": "3",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Abolfazl Jalali",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Daniel James",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Vincent Janssen",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ardon Jashari",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Issam Jebali",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Artur Jędrzejczyk",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mathias Jensen",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gabriel Jesus",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Raúl Jiménez",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kim Jin-su",
+   "Clearances": "5",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Brennan Johnson",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Alistair Johnston",
+   "Clearances": "4",
+   "Blocks": "6",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Frenkie de Jong",
+   "Clearances": "3",
+   "Blocks": "6",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Luuk de Jong",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Luka Jović",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Son Jun-ho",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Vinicius Júnior",
+   "Clearances": "0",
+   "Blocks": "5",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Josip Juranović",
+   "Clearances": "15",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Daichi Kamada",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jakub Kamiński",
+   "Clearances": "2",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Hossein Kanaanizadegan",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Harry Kane",
+   "Clearances": "5",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mohamed Kanno",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Fran Karačić",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Ali Karimi",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Mark-Anthony Kaye",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Wajdi Kechrida",
+   "Clearances": "4",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Thilo Kehrer",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Bilal El Khannouss",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Wahbi Khazri",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Musab Kheder",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Boualem Khoukhi",
+   "Clearances": "18",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Joshua Kimmich",
+   "Clearances": "1",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Jakub Kiwior",
+   "Clearances": "15",
+   "Blocks": "4",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Simon Kjær",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Davy Klaassen",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Lukas Klostermann",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gregor Kobel",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Koke",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Randal Kolo Muani",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ibrahima Konaté",
+   "Clearances": "16",
+   "Blocks": "5",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Ismaël Koné",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Teun Koopmeiners",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Filip Kostić",
+   "Clearances": "1",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kalidou Koulibaly",
+   "Clearances": "30",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jules Koundé",
+   "Clearances": "8",
+   "Blocks": "7",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Cheikhou Kouyaté",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Mateo Kovačić",
+   "Clearances": "5",
+   "Blocks": "4",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Andrej Kramarić",
+   "Clearances": "0",
+   "Blocks": "6",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Grzegorz Krychowiak",
+   "Clearances": "4",
+   "Blocks": "5",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Takefusa Kubo",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pierre Kunde",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Garang Kuol",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Daniel Kyereh",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kwon Kyung-won",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Aïssa Laïdouni",
+   "Clearances": "6",
+   "Blocks": "7",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Tariq Lamptey",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Noa Lang",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Aymeric Laporte",
+   "Clearances": "7",
+   "Blocks": "0",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Cyle Larin",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Richie Laryea",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Darko Lazović",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rafael Leão",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Mathew Leckie",
+   "Clearances": "6",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Robert Lewandowski",
+   "Clearances": "8",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Matthijs de Ligt",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jesper Lindstrøm",
+   "Clearances": "1",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Marko Livaja",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Dominik Livaković",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marcos Llorente",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Hugo Lloris",
+   "Clearances": "3",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Dejan Lovren",
+   "Clearances": "29",
+   "Blocks": "7",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Hirving Lozano",
+   "Clearances": "1",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Romelu Lukaku",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Saša Lukić",
+   "Clearances": "5",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ali Maâloul",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Awer Mabil",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Alexis Mac Allister",
+   "Clearances": "6",
+   "Blocks": "13",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Jamie Maclaren",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Assim Madibo",
+   "Clearances": "0",
+   "Blocks": "6",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Abdullah Madu",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Daizen Maeda",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Harry Maguire",
+   "Clearances": "18",
+   "Blocks": "4",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Lovro Majer",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nemanja Maksimović",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Abdulellah Al-Malki",
+   "Clearances": "4",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Steve Mandanda",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "José María Giménez",
+   "Clearances": "11",
+   "Blocks": "6",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "João Mário",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marquinhos",
+   "Clearances": "6",
+   "Blocks": "6",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Henry Martín",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Martinelli",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Carlos Martínez",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Emiliano Martínez",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Lautaro Martínez",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Lisandro Martínez",
+   "Clearances": "14",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Pape Matar Sarr",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rónald Matarrita",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Eric Maxim Choupo-Moting",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Noussair Mazraoui",
+   "Clearances": "16",
+   "Blocks": "6",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kylian Mbappé",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Bryan Mbeumo",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Riley McGree",
+   "Clearances": "3",
+   "Blocks": "5",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Weston McKennie",
+   "Clearances": "5",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Hannibal Mejbri",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Memphis",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nuno Mendes",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jhegson Méndez",
+   "Clearances": "1",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Edouard Mendy",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nampalys Mendy",
+   "Clearances": "3",
+   "Blocks": "4",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Gideon Mensah",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Chris Mepham",
+   "Clearances": "16",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Yassine Meriah",
+   "Clearances": "20",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Dries Mertens",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Lionel Messi",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Thomas Meunier",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Nikola Milenković",
+   "Clearances": "10",
+   "Blocks": "6",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Arkadiusz Milik",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Sergej Milinković-Savić",
+   "Clearances": "5",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Vanja Milinković-Savić",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Éder Militão",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Liam Millar",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kamal Miller",
+   "Clearances": "11",
+   "Blocks": "1",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Kim Min-jae",
+   "Clearances": "8",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Takumi Minamino",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kaoru Mitoma",
+   "Clearances": "5",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Aleksandar Mitrović",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Stefan Mitrović",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Filip Mladenović",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Luka Modrić",
+   "Clearances": "3",
+   "Blocks": "4",
+   "Interceptions": "10"
+  },
+  {
+   "Name": "Ismail Mohamad",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Milad Mohammadi",
+   "Clearances": "6",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kudus Mohammed",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Sadegh Moharrami",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nahuel Molina",
+   "Clearances": "11",
+   "Blocks": "7",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "César Montes",
+   "Clearances": "11",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Gonzalo Montiel",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kim Moonhwan",
+   "Clearances": "16",
+   "Blocks": "3",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Kieffer Moore",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Shaquell Moore",
+   "Clearances": "3",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Aaron Mooy",
+   "Clearances": "9",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Álvaro Morata",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Héctor Moreno",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Hidemasa Morita",
+   "Clearances": "4",
+   "Blocks": "9",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Joe Morrell",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Jordan Morris",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Youssoufa Moukoko",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mason Mount",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Youssef Msakni",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Thomas Müller",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Munir",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mohammed Muntari",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yunus Musah",
+   "Clearances": "1",
+   "Blocks": "7",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jamal Musiala",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Joakim Mæhle",
+   "Clearances": "6",
+   "Blocks": "7",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Georges-Kévin N'Koudou",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yuto Nagatomo",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Sami Al-Najei",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Keylor Navas",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Iliman Ndiaye",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Victor Nelsson",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Manuel Neuer",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rúben Neves",
+   "Clearances": "5",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Neymar",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Moumi Ngamaleu",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jerome Ngom Mbekeli",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rasmus Nissen",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nicolas Nkoulou",
+   "Clearances": "8",
+   "Blocks": "2",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Andries Noppert",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ahmad Nourollahi",
+   "Clearances": "8",
+   "Blocks": "3",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Olivier Ntcham",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Matheus Nunes",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Darwin Núñez",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Christian Nørgaard",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Guillermo Ochoa",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Denis Odoi",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Noah Okafor",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mathías Olivera",
+   "Clearances": "10",
+   "Blocks": "9",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Dani Olmo",
+   "Clearances": "4",
+   "Blocks": "5",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Amadou Onana",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "André Onana",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gaël Ondoua",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Loïs Openda",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mislav Oršić",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jonathan Osorio",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nicolás Otamendi",
+   "Clearances": "24",
+   "Blocks": "6",
+   "Interceptions": "9"
+  },
+  {
+   "Name": "Otávio",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Samuel Oum Gouet",
+   "Clearances": "3",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Azzedine Ounahi",
+   "Clearances": "2",
+   "Blocks": "5",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Bryan Oviedo",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Mohammed Al-Owais",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Juan Pablo Vargas",
+   "Clearances": "10",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Exequiel Palacios",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "João Palhinha",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Lucas Paquetá",
+   "Clearances": "4",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Leandro Paredes",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Thomas Partey",
+   "Clearances": "8",
+   "Blocks": "8",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mario Pašalić",
+   "Clearances": "3",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Benjamin Pavard",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Strahinja Pavlović",
+   "Clearances": "7",
+   "Blocks": "6",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Pedri",
+   "Clearances": "3",
+   "Blocks": "5",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Pedro",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Facundo Pellistri",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pepe",
+   "Clearances": "11",
+   "Blocks": "6",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Danilo Pereira",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ivan Perišić",
+   "Clearances": "12",
+   "Blocks": "9",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Bruno Petković",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Germán Pezzella",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kalvin Phillips",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Krzysztof Piątek",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jordan Pickford",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Orbelín Pineda",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gonzalo Plata",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jackson Porozo",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Morteza Pouraliganji",
+   "Clearances": "10",
+   "Blocks": "5",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Ángelo Preciado",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Christian Pulisic",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Adrien Rabiot",
+   "Clearances": "6",
+   "Blocks": "12",
+   "Interceptions": "10"
+  },
+  {
+   "Name": "Nemanja Radonjić",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Baba Rahman",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Gonçalo Ramos",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Aaron Ramsey",
+   "Clearances": "2",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Raphinha",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Marcus Rashford",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "David Raum",
+   "Clearances": "2",
+   "Blocks": "10",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Bassam Al-Rawi",
+   "Clearances": "7",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Tim Ream",
+   "Clearances": "12",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Djorkaeff Reasco",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gio Reyna",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ramin Rezaeian",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Everton Ribeiro",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Declan Rice",
+   "Clearances": "5",
+   "Blocks": "4",
+   "Interceptions": "11"
+  },
+  {
+   "Name": "Richarlison",
+   "Clearances": "4",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Fabian Rieder",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ró-Ró",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "8"
+  },
+  {
+   "Name": "Connor Roberts",
+   "Clearances": "7",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Antonee Robinson",
+   "Clearances": "8",
+   "Blocks": "3",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Sergio Rochet",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Joe Rodon",
+   "Clearances": "13",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Rodri",
+   "Clearances": "9",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Charly Rodríguez",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Guido Rodríguez",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kevin Rodríguez",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ricardo Rodríguez",
+   "Clearances": "8",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Rodrygo",
+   "Clearances": "1",
+   "Blocks": "6",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Mohamed Ali Ben Romdhane",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Cristian Romero",
+   "Clearances": "26",
+   "Blocks": "6",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Cristiano Ronaldo",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marten de Roon",
+   "Clearances": "6",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Kye Rowles",
+   "Clearances": "16",
+   "Blocks": "9",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Antonio Rüdiger",
+   "Clearances": "5",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Bryan Ruiz",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mathew Ryan",
+   "Clearances": "6",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Youssouf Sabaly",
+   "Clearances": "9",
+   "Blocks": "1",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Abdelhamid Sabiri",
+   "Clearances": "3",
+   "Blocks": "3",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Romain Saïss",
+   "Clearances": "30",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Bukayo Saka",
+   "Clearances": "2",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Hiroki Sakai",
+   "Clearances": "8",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Youstin Salas",
+   "Clearances": "1",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "William Saliba",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mohammed Salisu",
+   "Clearances": "17",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Tarek Salman",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Alex Sandro",
+   "Clearances": "9",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Leroy Sané",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Na Sang-ho",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pablo Sarabia",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Josh Sargent",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Jeremy Sarmiento",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Ismaila Sarr",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Ferjani Sassi",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Fabian Schär",
+   "Clearances": "7",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Nico Schlotterbeck",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kasper Schmeichel",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Haris Seferović",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Alidu Seidu",
+   "Clearances": "3",
+   "Blocks": "5",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Antoine Semenyo",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kim Seung-gyu",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Paik Seung-ho",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yasser Al-Shahrani",
+   "Clearances": "6",
+   "Blocks": "0",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Xherdan Shaqiri",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Riyadh Sharahili",
+   "Clearances": "4",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Luke Shaw",
+   "Clearances": "5",
+   "Blocks": "2",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Saad Al Sheeb",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Saleh Al-Shehri",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "André Silva",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "António Silva",
+   "Clearances": "1",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Bernardo Silva",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Thiago Silva",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Unai Simón",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Xavier Simons",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ellyes Skhiri",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "7"
+  },
+  {
+   "Name": "Michał Skóraś",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Andreas Skov Olsen",
+   "Clearances": "0",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Robert Skov",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Naïm Sliti",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Carlos Soler",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yuki Soma",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Yann Sommer",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Borna Sosa",
+   "Clearances": "18",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Harry Souttar",
+   "Clearances": "22",
+   "Blocks": "7",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Djibril Sow",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Josip Stanišić",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Renato Steffen",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Raheem Sterling",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "John Stones",
+   "Clearances": "8",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Luis Suárez",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Niklas Süle",
+   "Clearances": "7",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kamaldeen Sulemana",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Josip Šutalo",
+   "Clearances": "5",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Karol Świderski",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Wojciech Szczęsny",
+   "Clearances": "4",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Damian Szymański",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Sebastian Szymański",
+   "Clearances": "1",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Dušan Tadić",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Nicolás Tagliafico",
+   "Clearances": "9",
+   "Blocks": "9",
+   "Interceptions": "9"
+  },
+  {
+   "Name": "Montassar Talbi",
+   "Clearances": "18",
+   "Blocks": "7",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Hassan Al Tambakti",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ao Tanaka",
+   "Clearances": "2",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Shogo Taniguchi",
+   "Clearances": "10",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Mehdi Taremi",
+   "Clearances": "3",
+   "Blocks": "5",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Kenneth Taylor",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Aurélien Tchouaméni",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "14"
+  },
+  {
+   "Name": "Yeltsin Tejeda",
+   "Clearances": "7",
+   "Blocks": "7",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Alex Telles",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Sorba Thomas",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Marcus Thuram",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Youri Tielemans",
+   "Clearances": "0",
+   "Blocks": "4",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jurriën Timber",
+   "Clearances": "13",
+   "Blocks": "1",
+   "Interceptions": "10"
+  },
+  {
+   "Name": "Karl Toko Ekambi",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Nouhou Tolo",
+   "Clearances": "10",
+   "Blocks": "5",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Takehiro Tomiyasu",
+   "Clearances": "7",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Mehdi Torabi",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Félix Torres Caicedo",
+   "Clearances": "10",
+   "Blocks": "3",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Ferrán Torres",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Gerson Torres",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Pau Torres",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kieran Trippier",
+   "Clearances": "4",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Leandro Trossard",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Matt Turner",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Ayase Ueda",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Hwang Ui-jo",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Dayot Upamecano",
+   "Clearances": "13",
+   "Blocks": "5",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Enner Valencia",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Federico Valverde",
+   "Clearances": "1",
+   "Blocks": "6",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Virgil van Dijk",
+   "Clearances": "21",
+   "Blocks": "8",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Raphaël Varane",
+   "Clearances": "15",
+   "Blocks": "4",
+   "Interceptions": "6"
+  },
+  {
+   "Name": "Guillermo Varela",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Ruben Vargas",
+   "Clearances": "4",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Matías Vecino",
+   "Clearances": "1",
+   "Blocks": "6",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Alexis Vega",
+   "Clearances": "2",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Miloš Veljković",
+   "Clearances": "7",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Johan Venegas",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jordan Veretout",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jan Vertonghen",
+   "Clearances": "12",
+   "Blocks": "2",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Matías Viña",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Vitinha",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Steven Vitória",
+   "Clearances": "7",
+   "Blocks": "4",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Dušan Vlahović",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Nikola Vlašić",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Mohammed Waad",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Kyle Walker",
+   "Clearances": "3",
+   "Blocks": "2",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Danny Ward",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Kendall Waston",
+   "Clearances": "14",
+   "Blocks": "2",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Timothy Weah",
+   "Clearances": "0",
+   "Blocks": "5",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Wout Weghorst",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Wéverton",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Silvan Widmer",
+   "Clearances": "15",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Iñaki Williams",
+   "Clearances": "2",
+   "Blocks": "3",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Neco Williams",
+   "Clearances": "5",
+   "Blocks": "5",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Nico Williams",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Callum Wilson",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Harry Wilson",
+   "Clearances": "3",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Roan Wilson",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Axel Witsel",
+   "Clearances": "6",
+   "Blocks": "5",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Jeong Woo-yeong",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Jung Woo-young",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Christopher Wooh",
+   "Clearances": "6",
+   "Blocks": "3",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "David Wotherspoon",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Bailey Wright",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Haji Wright",
+   "Clearances": "1",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Granit Xhaka",
+   "Clearances": "7",
+   "Blocks": "3",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Miki Yamane",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "2"
+  },
+  {
+   "Name": "Jawad El Yamiq",
+   "Clearances": "17",
+   "Blocks": "6",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Taha Yassine Khenissi",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "DeAndre Yedlin",
+   "Clearances": "2",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Maya Yoshida",
+   "Clearances": "24",
+   "Blocks": "6",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Kim Young-gwon",
+   "Clearances": "11",
+   "Blocks": "3",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Cho Yumin",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Denis Zakaria",
+   "Clearances": "1",
+   "Blocks": "1",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Nicola Zalewski",
+   "Clearances": "0",
+   "Blocks": "1",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Andre-Frank Zambo Anguissa",
+   "Clearances": "2",
+   "Blocks": "2",
+   "Interceptions": "5"
+  },
+  {
+   "Name": "Álvaro Zamora",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Anass Zaroury",
+   "Clearances": "0",
+   "Blocks": "2",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "Piotr Zieliński",
+   "Clearances": "7",
+   "Blocks": "1",
+   "Interceptions": "1"
+  },
+  {
+   "Name": "Walker Zimmerman",
+   "Clearances": "15",
+   "Blocks": "4",
+   "Interceptions": "4"
+  },
+  {
+   "Name": "Andrija Živković",
+   "Clearances": "3",
+   "Blocks": "5",
+   "Interceptions": "3"
+  },
+  {
+   "Name": "Hakim Ziyech",
+   "Clearances": "4",
+   "Blocks": "10",
+   "Interceptions": "10"
+  },
+  {
+   "Name": "Filip Đuričić",
+   "Clearances": "0",
+   "Blocks": "0",
+   "Interceptions": "0"
+  },
+  {
+   "Name": "이강인",
+   "Interceptions": "0"
+  }
+ ]
+}]
